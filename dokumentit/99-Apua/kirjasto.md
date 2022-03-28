@@ -111,6 +111,7 @@ Tässä muutamia hyödyllisiä lähteitä koottuna osaksi OPF-kehikkoa.
 
 ## Graafinen ja käyttöliittymäsuunnittelu
 
+* [Värien määrittelyä Image Color Picker](https://imagecolorpicker.com/)
 * [Guide to Mockups](https://www.uxpin.com/studio/ebooks/guide-to-mockups/)
 * [UxChecklist](https://uxchecklist.github.io/)
 * [Lawson fux](https://lawsofux.com/)
