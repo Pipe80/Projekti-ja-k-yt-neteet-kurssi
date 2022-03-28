@@ -111,6 +111,7 @@ Tässä muutamia hyödyllisiä lähteitä koottuna osaksi OPF-kehikkoa.
 
 ## Graafinen ja käyttöliittymäsuunnittelu
 
+*[https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
 * [https://eyedropper.org/](https://eyedropper.org/)
 * [Värien määrittelyä Image Color Picker](https://imagecolorpicker.com/)
 * [Guide to Mockups](https://www.uxpin.com/studio/ebooks/guide-to-mockups/)
