@@ -7,7 +7,6 @@ Kerro tiimistä ja sen osaamisista projektin kannalta? Hieman tausta, jos tarpee
 
 | Nimi | Kuvaus | Yritys/yhteisö | Tehtävä | Vastuut |
 |:-:|:-:|:-:|:-:|:-:|
-| Henkilö |	Tehtävä	Projektiin varattu työaika |	Gitlab-tunnus |	Mitä työ on käytännössä? |
 | Pirjo Mure | 	Projektihallinta ja ohjaus  |	N5589	|
 | Arnold "Juggernaut" Suksi	| Vanhempi projektipäällikkö || 	auttaa tarpeen mukaan	-	Projektipäällikön tehtävistä, Extra |
 | Mirva "Mforce" Porkka	| Avainasiakaspäällikkö	||  auttaa tarpeen mukaan	- |	Asiakaspäällikkön tehtävistä |
