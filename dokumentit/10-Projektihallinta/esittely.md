@@ -5,21 +5,21 @@ Kerro tiimistä ja sen osaamisista projektin kannalta? Hieman tausta, jos tarpee
 
 ## Tiimin jäsenet
 
-| Nimi | Kuvaus | Yritys/yhteisö | Tehtävä | Vastuut |
-|:-:|:-:|:-:|:-:|:-:|
+| Nimi |  Tehtävänkuvaus| Yritys/yhteisö |
+|:-:|:-:|:-:|
 | Pirjo Mure | 	Projektihallinta ja ohjaus  |	N5589	|
-| Arnold "Juggernaut" Suksi	| Vanhempi projektipäällikkö || 	auttaa tarpeen mukaan	-	Projektipäällikön tehtävistä, Extra |
-| Mirva "Mforce" Porkka	| Avainasiakaspäällikkö	||  auttaa tarpeen mukaan	- |	Asiakaspäällikkön tehtävistä |
-| Matti "Urali" Urri |	Ohjelmointi	|| 	deve1 |	Koodarina VALU Digitalilla |
-| Kauno Koivisto |	Ohjelmointi || 	deve2 |	Koodarin työstä |
-| Heli "HeHe" Heikki |	Palvelutuotanto	 ||	
-| Heikki Halipula |	Asiakaspalvelu  ||		
-| Purho "Grapizza" Kekkonen	| Graafinen suunnittelu	 |	|
-| Maija Keskinen | 	Palvelumuotoilu   ||	Esimerkkinä palvelumuotoilija työtehtävät KESKOlla | 
-| Klaus Kähö | 	Testaus 	|| tester1	| 
-| Mauno Kara | 	Tietoturvatestaus  | | 	
-| Carola "Cake" Kettunen | 	Arkkitehti / pääohjelmoija || 
-| Reino "Stackker" Kasa | 	DevOps asiantuntija	| | 
+| Arnold "Juggernaut" Suksi	| Vanhempi projektipäällikkö |CodeCerub Oy| 
+| Mirva "Mforce" Porkka	| Avainasiakaspäällikkö	|CodeCerub Oy| 
+| Matti "Urali" Urri |	Ohjelmointi	|CodeCerub Oy| 
+| Kauno Koivisto |	Ohjelmointi |CodeCerub Oy| 	
+| Heli "HeHe" Heikki |	Palvelutuotanto	 |CodeCerub Oy|	
+| Heikki Halipula |	Asiakaspalvelu  |CodeCerub Oy|		
+| Purho "Grapizza" Kekkonen	| Graafinen suunnittelu	 |CodeCerub Oy	|
+| Maija Keskinen | 	Palvelumuotoilu   |CodeCerub Oy|	
+| Klaus Kähö | 	Testaus 	|CodeCerub Oy| 
+| Mauno Kara | 	Tietoturvatestaus  | CodeCerub Oy| 	
+| Carola "Cake" Kettunen | 	Arkkitehti / pääohjelmoija |CodeCerub Oy| 
+| Reino "Stackker" Kasa | 	DevOps asiantuntija	|CodeCerub Oy | 
  
 ## Kuva tiimistä
 
