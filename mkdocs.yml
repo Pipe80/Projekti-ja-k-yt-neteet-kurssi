@@ -1,7 +1,7 @@
-site_name: FI-OPF-Default-Rel FI 0.10.1
+site_name: Pirjon TTC2070 projekti
 site_url: http://jamkit.pages.labranet.jamk.fi/project-templates/opf-2021-ttc2070-core-template-v2
 site_description: Default Description
-site_author: Firstname Lastname / JAMK IT
+site_author: Pirjo Mure / JAMK IT
 
 docs_dir: dokumentit
 site_dir: public
