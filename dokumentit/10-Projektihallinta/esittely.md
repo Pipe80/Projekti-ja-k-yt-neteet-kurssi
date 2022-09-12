@@ -7,7 +7,7 @@ Kerro tiimistä ja sen osaamisista projektin kannalta? Hieman tausta, jos tarpee
 
 | Nimi |  Tehtävänkuvaus| Yritys/yhteisö |
 |:-:|:-:|:-:|
-| Pirjo Mure | 	Projektihallinta ja ohjaus  |	N5589	|
+| Pirjo | 	Projektihallinta ja ohjaus  |	N5589	|
 | Arnold "Juggernaut" Suksi	| Vanhempi projektipäällikkö |CodeCerub Oy| 
 | Mirva "Mforce" Porkka	| Avainasiakaspäällikkö	|CodeCerub Oy| 
 | Matti "Urali" Urri |	Ohjelmointi	|CodeCerub Oy| 
