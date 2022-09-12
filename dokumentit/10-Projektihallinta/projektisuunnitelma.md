@@ -3,9 +3,9 @@
 |  |  |
 |:-:|:-:|
 | Dokumentti | Projektisuunnitelma |
-| Laatija: | |
-| Versio: | |
-| Päivämäärä: | |
+| Laatija: | Pirjo Mure|
+| Versio: | 1.0|
+| Päivämäärä: |12.9.2022 |
 
 ![](https://cdn.pixabay.com/photo/2018/08/06/21/32/darknet-3588402_1280.jpg)
 
