@@ -15,17 +15,12 @@
 
 ## 1.1 Tausta ja lähtökohdat
 
-
-
->Kuvataan toimeksiantoa lyhyesti johdannon muodossa.  Tarpeen mukaan ohjataan lukijaa tutustumaan tarkemmin vaatimusmäärittelydokumenttiin. Projektin tavoitteena on pyrkiä yhdistämään .... on tarve kehittää” < kohdetta>… ”Projekti toteutetaan Jyväskylän ammattikorkeakoulun informaatioteknologian instituutin järjestämän <TTOS2070> ‑opintojakson puitteissa. *
-Kohde on usein laajempi käsite kuin varsinainen projektille määriteltävä tehtävä. Kohde kuvaa selkeällä tavalla, usein graafiseen esitykseen tukeutuen, millaisesta järjestelmäkokonaisuudesta tai toiminnasta on kyse, johon ollaan tekemässä nyt projektissa jotain osakokonaisuutta/täydennystä. Tässä siis kuvataan nykyjärjestelmää ja asiakkaan nykyistä toimintatapaa.
+KCodeCerub Oy on saanut asiakkaakseen WIMMA Lab-koulutusympäristön, joka on nyt laajentamassa toimintaansa. WIMMA Labin toimintaa pyritään avaamaan eri sidosryhmille ja siihen tarvitaan uusia sähköisiä palveluja. Toimeksianto CodeCerub Oy:lle on kehittää WIMMA Labin käyttöön soveltuva Foorumi-palvelu, joka liitetään osaksi kotisivuja. Foorumin toteutuksen pohjana hyödynnetään (Open Source) avoimen lähdekoodin perustuvaa Conduit-ohjelmistoa, jo on asiakkaan esittämä vaatimus. Syynä tähän on tiukka aikataulu. Asiakkaalla on vahva oletus, että tämä säästää aikaa kehitykseltä ja voidaan keskittyä nopeampaan käyttöönottoon.
+Projekti toteutetaan Jyväskylän ammattikorkeakoulun informaatioteknologian instituutin järjestämän <TTC2070> ‑opintojakson puitteissa.
 
 ## 1.2 Tavoitteet ja tehtävät
 
-
-
-
-> Tässä dokumentissa kuvataan X-projektin taustaa, tavoitteita, tehtäviä, vaihejakoa, resursseja ja organisaatiota. Vaihejaon yhteydessä on kuvattu jokainen vaihe erikseen lyhyesti.”
+Projektina on toteuttaa WIMMA Labin käyttöön soveltuva Foorumi-palvelu, joka liitetään osaksi kotisivuja.
 
 * Tuottaa ratkaisu mihin ? 
 
@@ -38,9 +33,14 @@ Kohde on usein laajempi käsite kuin varsinainen projektille määriteltävä te
 
 * projektiin liittyvät eri sidosryhmät?
 
-> Mitä henkilöitä, toimijoita tai ryhmiä liittyy projektiin projektin 
-> Tähän voi liittää Sidosryhmäkuvauksen tai käyttää lähteenä vaatimusmäärittelyä ?
-* Linkki tarvitavaan aineistoon vaatimusmäärittelyssä
+Asiakkaan edustajana toimii ohjaaja Kari Pitkäniemi
+Johtoryhmään kuuluvat seuraavat henkilöt:
+Sinä (N5589)
+WIMMA Labin tekninen arkkitehti Teemu K
+WIMMA Labin edustaja Kari Pitkäniemi.
+Tuoteomistaja Marko "Narsuman" Rintamäki
+
+Tietoturvan osalta edellytetään Kyberturvallisuus keskuksen jakamia tunnettuja hyviä käytänteitä. Nämä lähteet toimivat myös lähteinä vaatimusmäärittelylle.  ![](https://www.kyberturvallisuuskeskus.fi/fi/toimintamme/saantely-ja-valvonta/tietoturva)
 
 ## 1.3 Rajaus ja liittymät
 
