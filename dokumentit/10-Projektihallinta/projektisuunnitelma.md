@@ -3,7 +3,7 @@
 |  |  |
 |:-:|:-:|
 | Dokumentti | Projektisuunnitelma |
-| Laatija: | Pirjo Mure|
+| Laatija: | Pirjo|
 | Versio: | 1.0|
 | Päivämäärä: |12.9.2022 |
 
@@ -22,7 +22,6 @@ Projekti toteutetaan Jyväskylän ammattikorkeakoulun informaatioteknologian ins
 
 Projektina on toteuttaa WIMMA Labin käyttöön soveltuva Foorumi-palvelu, joka liitetään osaksi kotisivuja.
 
-* Tuottaa ratkaisu mihin ? 
 
 > Tähän voi viitata vaatimusmäärittelyn sisältöön
 > Määritellään työn keskeisin sisältö tässä projektissa; projektin tehtävä liittyy projektin kohteessa kuvattuun kokonaisuuteen. 
