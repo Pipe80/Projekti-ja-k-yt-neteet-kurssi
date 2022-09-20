@@ -4,7 +4,7 @@
 |:-:|:-:|
 | Dokumentti | Tiivistetty vaatimusmääritelmä |
 | Laatija: | Pirjo M |
-| Versio: | 0.0 |
+| Versio: | 0.2 |
 | Päivämäärä: | 20.0.2022 |
 
 ## Johdanto
@@ -14,13 +14,8 @@ Code Cerubin edustajana toimii Arnold Suksi, joka haluaa Forum-keskustelupalstan
 
 ## Kohderyhmä 
 
-![](../assets/work-to-do.png)
+Foorumilla voi keskustella ja kommentoida toisten aloittamia keskusteluja. Foorumille voi kirjautua ja esim. seurata muita käyttäjiä sekä tykätä toisten keskusteluista. Käyttäjäryhmänä nuoret, aikuiset ja kohderyhmään kuuluvat henkilöt, opiskelijat.
 
->Kenelle palvelu on tarkoitettu? Mitä palvelulla pyritään edistämään?
-
-* Kohderyhmä A
-* Kohderyhmä B
-* Kohderyhmä ??
 
 ## Sidosryhmäkartta
 
