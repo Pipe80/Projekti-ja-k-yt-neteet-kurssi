@@ -10,8 +10,7 @@
 ## Johdanto
 
 Asiakkaana on WIMMA Lab-koulutusympäristö, joka on kehittämässä toimintaansa laajemmaksi. Asiakkaan toimeksiantona on tuottaa palveluna Foorumi-ratkaisu, WIMMA Lab-kotisivujen osaksi. Foorumin pohjana käytetään ns. Conduit-ohjelmistoa, joka on ennalta valittu asiakkaan puolesta.
-Code Cerubin edustajana toimii Arnold Suksi, joka haluaa Forum-keskustelupalstan käyttöön 3 kk jälkeen projektin alkamisesta. Code Cerub vastaa tämän jälkeen palvelun tukemisesta ja siihen liittyvästä ylläpidosta. Projektin tavoitteena on muokata ja tuottaa Conduit-ohjelmistosta sopiva versio asiakkaan tarpeeseen. Ylläpito jatkuu erillisen sopimuksen pohjalta.
-
+Code Cerub vastaa tämän jälkeen palvelun tukemisesta ja siihen liittyvästä ylläpidosta. Projektin tavoitteena on muokata ja tuottaa Conduit-ohjelmistosta sopiva versio asiakkaan tarpeeseen. Ylläpito jatkuu erillisen sopimuksen pohjalta.
 Asiakkaan edustajana toimii  WIMMA Labilla työskentelevä Kari Pitkäniemi, joka toivoo Forum-keskustelupalstan käyttöön saamista ~4 kk jälkeen projektin alkamisesta.
 
 ## Kohderyhmä 
