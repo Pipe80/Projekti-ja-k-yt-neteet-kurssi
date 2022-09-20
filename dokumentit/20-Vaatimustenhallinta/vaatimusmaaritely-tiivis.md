@@ -7,17 +7,10 @@
 | Versio: | 0.0 |
 | Päivämäärä: | 20.0.2022 |
 
->Vaatimusmäärittelyn kirjoittajalle!Eri ohjevideot on siirretty harjoitustehtävien kuvauksiin, eli jos jokin osa-alue ei aukea käy läpi videot ensin! 
-Kun editoit dokumentaatiota kannattaa viimeistään ennen palautusta poistaa eri ohjeistukset ja korvata taulukoissa annetut esimerkit pelkästään toimeksiantoon liittyvällä tiedolla. Älä muuta otsikointia ratkaisevasti!
-Jos haluat tarkistaa mitä alkuperäinen pohja sisälsi, niin löydät viimeisimmän version osoitteesta [Lyhennetty-vaatimusmääritelmä](https://jamkit.pages.labranet.jamk.fi/project-templates/fi-opf-2021-core-template-v2/20-Vaatimustenhallinta/vaatimusmaaritely-tiivis/)
->Terveisin,
->Ohjaajat
-
 ## Johdanto
 
-![](../assets/work-to-do.png)
-
->*Kerro mitä tällä dokumentilla tavoitellaan? Kuvaa projektissa tavoiteltua kokonaisuutta, hieman taustaa ja aiheeseen olennaisesti liittyviä asioita? Jos kyseessä harjoitustehtävä, niin tarkista voitko todella käyttää olemassa olevia tilaajien oikeita nimiä! Muussa tapauksessa vaihdetaan kaikki nimet itse keksittyihin :)*
+Asiakkaana on WIMMA Lab-koulutusympäristö, joka on kehittämässä toimintaansa laajemmaksi. Asiakkaan toimeksiantona on tuottaa palveluna Foorumi-ratkaisu, WIMMA Lab-kotisivujen osaksi. Foorumin pohjana käytetään ns. Conduit-ohjelmistoa, joka on ennalta valittu asiakkaan puolesta.
+Code Cerubin edustajana toimii Arnold Suksi, joka haluaa Forum-keskustelupalstan käyttöön 3 kk jälkeen projektin alkamisesta. Code Cerub vastaa tämän jälkeen palvelun tukemisesta ja siihen liittyvästä ylläpidosta. Projektin tavoitteena on muokata ja tuottaa Conduit-ohjelmistosta sopiva versio asiakkaan tarpeeseen. Ylläpito jatkuu erillisen sopimuksen pohjalta.
 
 ## Kohderyhmä 
 
