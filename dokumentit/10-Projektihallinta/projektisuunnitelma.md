@@ -45,15 +45,11 @@ Tietoturvan osalta edellytetään Kyberturvallisuus keskuksen jakamia tunnettuja
 
 ## 1.3 Rajaus ja liittymät
 
-> Täsmennetään projektin tehtävää rajaamalla ulkopuolelle jäävät osat kohteena olevasta järjestelmästä tai kokonaishankkeesta. 
-> Erikseen on syytä kuvata myös tehtävän suorittamista merkittävästi rajoittavat ulkoiset tekijät. Tässä myös täsmennetään ne 
-> tehtäväkokonaisuudet, jotka nyt tehtävään osioon tulevat vielä todennäköisesti jossain vaiheessa liittymään, mutta joita ei 
-> tämän projektin puitteissa kuitenkaan tulla toteuttamaan. Tyypillisiä tällaisia tehtäviä voisivat olla mm. käyttöympäristön
-> rakentaminen ja koulutus. Muina rajauksina voisi olla esim. ohjelmiston käyttöliittymässä käytettävä kieli.
+Projektin tehtävänä on toteuttaa Conduit-ohjelmiston pohjalle Foorumi-ratkaisu asiakkaan toiveiden mukaan. Palvelun ylläpitovastuu jää tuotteen toimituksen jälkeen Code Cerub:ille. Toimeksiantoon eivät liity muut ratkaisut Foorumin ulkopuolella.
 
 ## 1.4 Oikeudet
 
-> ”Eri osapuolten oikeudet on määritelty projektisopimuksessa.” Ellei erillisessä sopimuksessa ole kerrottu oikeuksista työn tuloksiin, tulee ne ilmaista esim. tässä projektisuunnitelmassa. 
+Eri osapuolten oikeudet on määritelty projektisopimuksessa.
 
 ## 1.5 Termit ja määritelmät
 
