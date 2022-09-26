@@ -16,12 +16,12 @@
 ## 1.1 Tausta ja lähtökohdat
 
 KCodeCerub Oy on saanut asiakkaakseen WIMMA Lab-koulutusympäristön, joka on nyt laajentamassa toimintaansa. WIMMA Labin toimintaa pyritään avaamaan eri sidosryhmille ja siihen tarvitaan uusia sähköisiä palveluja. Toimeksianto CodeCerub Oy:lle on kehittää WIMMA Labin käyttöön soveltuva Foorumi-palvelu, joka liitetään osaksi kotisivuja. Foorumin toteutuksen pohjana hyödynnetään (Open Source) avoimen lähdekoodin perustuvaa Conduit-ohjelmistoa, jo on asiakkaan esittämä vaatimus. Syynä tähän on tiukka aikataulu. Asiakkaalla on vahva oletus, että tämä säästää aikaa kehitykseltä ja voidaan keskittyä nopeampaan käyttöönottoon.
-Projekti toteutetaan Jyväskylän ammattikorkeakoulun informaatioteknologian instituutin järjestämän <TTC2070> ‑opintojakson puitteissa.
+Projekti toteutetaan Jyväskylän ammattikorkeakoulun järjestämän <TTC2070> ‑opintojakson puitteissa.
 
 ## 1.2 Tavoitteet ja tehtävät
 
 Projektina on toteuttaa WIMMA Labin käyttöön soveltuva Foorumi-palvelu, joka liitetään osaksi kotisivuja.
-
+Projektin tavoite on muokata ja kehittää nykyisestä Conduit-ohjelmistosta paremmin asiakkaan tarpeeseen sopiva versio. Tärkeimpinä toimintoina asiakas edellyttää käyttöliittymän sulavaa integrointia WIMMA Lab-kotisivun kanssa ja saumatonta liittämistä osaksi kotisivuja. Lisäksi tietosuojan vaikutukset on otettava huomioon palvelun tuotannossa.
 
 > Tähän voi viitata vaatimusmäärittelyn sisältöön
 > Määritellään työn keskeisin sisältö tässä projektissa; projektin tehtävä liittyy projektin kohteessa kuvattuun kokonaisuuteen. 
@@ -33,11 +33,13 @@ Projektina on toteuttaa WIMMA Labin käyttöön soveltuva Foorumi-palvelu, joka 
 * projektiin liittyvät eri sidosryhmät?
 
 Asiakkaan edustajana toimii ohjaaja Kari Pitkäniemi
+
 Johtoryhmään kuuluvat seuraavat henkilöt:
-Sinä (N5589)
+Pirjo M (N5589)
 WIMMA Labin tekninen arkkitehti Teemu K
 WIMMA Labin edustaja Kari Pitkäniemi.
-Tuoteomistaja Marko "Narsuman" Rintamäki
+Tuoteomistaja Marko Rintamäki
+
 
 Tietoturvan osalta edellytetään Kyberturvallisuus keskuksen jakamia tunnettuja hyviä käytänteitä. Nämä lähteet toimivat myös lähteinä vaatimusmäärittelylle.  ![](https://www.kyberturvallisuuskeskus.fi/fi/toimintamme/saantely-ja-valvonta/tietoturva)
 
