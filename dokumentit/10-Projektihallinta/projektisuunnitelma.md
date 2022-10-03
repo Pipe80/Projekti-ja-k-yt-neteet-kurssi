@@ -51,7 +51,7 @@ IT = Information technology
 
 ## 1.6 Projektiin liittyvät haasteet
 
-
+:::image type="content" source="<assets/Näyttökuva_2022-10-03_113903.jpg>" alt-text="<SWOT>":::
 
 # 2. Projektiorganisaatio
 
