@@ -50,8 +50,8 @@ SWOT-kuvaus = Strengths, Weaknesses, Opportunities, Threats eli suomeksi Vahvuud
 IT = Information technology
 
 ## 1.6 Projektiin liittyvät haasteet
+![SWOT](assets/Näyttökuva_2022-10-03_113903.jpg.jpg)
 
-:::image type="content" source="<assets/Näyttökuva_2022-10-03_113903.jpg>" alt-text="<SWOT>":::
 
 # 2. Projektiorganisaatio
 
