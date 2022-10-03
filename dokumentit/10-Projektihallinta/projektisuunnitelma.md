@@ -193,7 +193,7 @@ Huom.: Seuraavassa on esitetty käynnistys- ja lopetusvaiheet. Kaikista projekti
 ## 3.2 Projektin alustavat kustannusarvio
 
 
-Kustannusarvion esittäminen taulukon avulla: 
+Kustannusarvio: 
 
 ![kustannusarvio](assets/taulukko.jpg)
 
