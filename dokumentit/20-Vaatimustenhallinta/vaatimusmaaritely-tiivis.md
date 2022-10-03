@@ -155,6 +155,7 @@ Step11 --> Step12
 || Asiakas_A voi soittaa tuntemalleen henkilölle Asiakas_B |
 || Asiakas_A voi soittaa tuntemattomalle henkilölle, jos soitto on sallittu |
 
+
 >Jokainen ominaisuus kannattaa kuvata itsenäisenä dokumenttina, koska niihin liittyy paljon tarkentavaa tietoa. Tutustu esimerkkinä [FEAT0001](20-Vaatimustenhallinta/ominaisuus-FEA0001.md). Kuvauksen tekemiseen käytetään tarvittaessa seuraavaa [pohjaa](pohja/../pohjat/pohja-ominaisuus.md). 
 
 
