@@ -195,7 +195,7 @@ Huom.: Seuraavassa on esitetty käynnistys- ja lopetusvaiheet. Kaikista projekti
 
 Kustannusarvion esittäminen taulukon avulla: 
 
-![](kustannusarvio.JPG)
+![](taulukko.JPG)
 
 # 4. Laadunvarmistus
 
