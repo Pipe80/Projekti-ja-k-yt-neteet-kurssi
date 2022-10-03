@@ -4,7 +4,7 @@
 |:-:|:-:|
 | Dokumentti | Projektisuunnitelma |
 | Laatija: | Pirjo|
-| Versio: | 1.1|
+| Versio: | 1.9|
 | Päivämäärä: |3.10.2022 |
 
 ![](https://cdn.pixabay.com/photo/2018/08/06/21/32/darknet-3588402_1280.jpg)
@@ -195,7 +195,8 @@ Huom.: Seuraavassa on esitetty käynnistys- ja lopetusvaiheet. Kaikista projekti
 
 Kustannusarvion esittäminen taulukon avulla: 
 
-![](taulukko.JPG)
+![kustannusarvio](assets/taulukko.jpg)
+
 
 # 4. Laadunvarmistus
 
