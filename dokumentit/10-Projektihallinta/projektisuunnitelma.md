@@ -146,7 +146,7 @@ IT = Information technology
 **GANTT PlantUML-muodossa**
 
 ```plantuml
-Project starts the 2021-5-15
+Project starts the 2022-9-10
 [Projekti aktiivinen] Starts 2022-9-12 and ends 2022-12-1
 [Määrittely vaihe] Starts 2022-9-12 and ends 2022-9-18
 [Suunittelu] Starts 2022-9-19 and ends 2022-10-2
