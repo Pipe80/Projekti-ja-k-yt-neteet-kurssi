@@ -67,8 +67,7 @@ IT = Information technology
 @startmindmap
 + Conduit
 ++ N5589
-+++ Projektipäällikkö
-+++ Asiakkaan edustaja Kari Pitkäniemi
++++ Projektipäällikkö Pirjo M
 +++ Teemu K
 +++  Marko Rintamäki
 -- CodeCerub
