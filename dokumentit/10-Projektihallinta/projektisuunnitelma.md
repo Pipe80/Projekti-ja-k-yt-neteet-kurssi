@@ -4,8 +4,8 @@
 |:-:|:-:|
 | Dokumentti | Projektisuunnitelma |
 | Laatija: | Pirjo|
-| Versio: | 1.0|
-| Päivämäärä: |12.9.2022 |
+| Versio: | 1.1|
+| Päivämäärä: |3.10.2022 |
 
 ![](https://cdn.pixabay.com/photo/2018/08/06/21/32/darknet-3588402_1280.jpg)
 
@@ -22,15 +22,6 @@ Projekti toteutetaan Jyväskylän ammattikorkeakoulun järjestämän <TTC2070> �
 
 Projektina on toteuttaa WIMMA Labin käyttöön soveltuva Foorumi-palvelu, joka liitetään osaksi kotisivuja.
 Projektin tavoite on muokata ja kehittää nykyisestä Conduit-ohjelmistosta paremmin asiakkaan tarpeeseen sopiva versio. Tärkeimpinä toimintoina asiakas edellyttää käyttöliittymän sulavaa integrointia WIMMA Lab-kotisivun kanssa ja saumatonta liittämistä osaksi kotisivuja. Lisäksi tietosuojan vaikutukset on otettava huomioon palvelun tuotannossa.
-
-> Tähän voi viitata vaatimusmäärittelyn sisältöön
-> Määritellään työn keskeisin sisältö tässä projektissa; projektin tehtävä liittyy projektin kohteessa kuvattuun kokonaisuuteen. 
-> Mitä toimintaa aiotaan kehittää ja miten?>
-> Visio tulevasta tilasta
-> Mikä on tuotettava lopputulos (konkreettinen)?
-> Mitkä ovat osa- tai välitulokset?>
-
-* projektiin liittyvät eri sidosryhmät?
 
 Asiakkaan edustajana toimii ohjaaja Kari Pitkäniemi
 
@@ -53,13 +44,14 @@ Eri osapuolten oikeudet on määritelty projektisopimuksessa.
 
 ## 1.5 Termit ja määritelmät
 
->Tässä kappaleessa esitellään projektisuunnitelmassa esiintyvät määritelmät, termit ja lyhenteet. Esimerkiksi eri projekteissa saattaa sanoilla "tarkastus" ja "katselmointi" olla eri merkitys ja tämä 
-> voi aiheuttaa väärinkäsityksiä. Joskus saattaa olla paikallaan sopia eri nimityksiä ryhmän tarkastuksille (oma sisäinen, asiakkaan kanssa, opintojakson suuntaan). Lyhenteet kannattaa avata 
-> alkuperäiskielelle ja lisätä lyhyt kuvaus suomeksi. Esimerkiksi CASE = Computer aided software engineering, tietokoneavusteinen systeemityö.
+CASE = Computer aided software engineering, tietokoneavusteinen systeemityö
+JAMK = Jyväskylän ammattikorkeakoulu
+SWOT-kuvaus = Strengths, Weaknesses, Opportunities, Threats eli suomeksi Vahvuudet, Heikkoudet, Mahdollisuudet ja Uhat
+IT = Information technology
 
 ## 1.6 Projektiin liittyvät haasteet
 
-> Tarkastellaan projektin tavoitteita ja laaditaan tueksi SWOT-kuvaus, jossa tarkastellaan koko projektia ja sen toimintaympäristöä. 
+
 
 # 2. Projektiorganisaatio
 
