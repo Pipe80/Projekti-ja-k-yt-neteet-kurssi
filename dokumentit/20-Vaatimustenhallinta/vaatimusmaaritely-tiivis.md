@@ -81,7 +81,6 @@ Step6: Asiakas poistuu palvelusta
 [*] --> Step1
 Step1 --> Step2
 Step2 --> Step3
-Step3 --> Step6
 Step3 --> Step4
 Step4 --> Step6
 Step4 --> Step5
