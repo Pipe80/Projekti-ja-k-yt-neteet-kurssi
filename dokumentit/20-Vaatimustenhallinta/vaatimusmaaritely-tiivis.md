@@ -39,10 +39,10 @@ Foorumilla voi keskustella ja kommentoida toisten aloittamia keskusteluja. Fooru
 
 | ID |  Nimi | Kuvaus | Motivaatio |
 |:-:|:-:|:-:|:-:|
-| SR-001 | [Asiakas profiili A](pohjat/pohja-profiilikuvaus.md) | Nuori 16-22V | Selkeä tarve palvelulle ja tarvitsee palvelua usein |
-| SR-002 | [Asiakas profiili B](pohjat/pohja-profiilikuvaus.md) | Aikuinen 22-45V | Tarve satunnainen, mutta yleisin asiakas  |
-| SR-003 | [Sidosryhmä - Rahoittaja]() | Pääomasijoittaja | Palvelun tuottamat tuotot |
-| SR-004 | [Sidosryhmä - Hakkeri]() | Nuori hakkeri | Kerätä tietoa ja haavoittuvuuksia  |
+| SR-001 | [Asiakas profiili Jonne](pohjat/pohja-profiilikuvaus.md) | Nuori 16-22V | Selkeä tarve palvelulle ja tarvitsee palvelua usein |
+| SR-002 | [Asiakas profiili Anne](pohjat/pohja-profiilikuvaus.md) | Aikuinen 22-45V | Tarve satunnainen, mutta yleisin asiakas  |
+| SR-003 | [Sidosryhmä - Rahoittaja Roope]() | Pääomasijoittaja | Palvelun tuottamat tuotot |
+| SR-004 | [Sidosryhmä - Hakkeri Harri]() | Nuori hakkeri | Kerätä tietoa ja haavoittuvuuksia  |
 
 ## Palveluun liittyviä asiakaspolkuja
 
