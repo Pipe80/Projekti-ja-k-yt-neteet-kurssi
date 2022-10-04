@@ -66,9 +66,13 @@ Foorumilla voi keskustella ja kommentoida toisten aloittamia keskusteluja. Fooru
 >Ennen kuvausta kannataa tehdä johdanto teksti, jossa esitellään mitä kuvauksessa on tarkoitus tarkastella! 
 
 
-**Tässä asiakaspolku esimerkki: Asiakkaan saapuminen liiketilaan onnistuneen ulkomainoksen pohjalta**
 
-*Tarkastelun kohteena on satunnaisen asiakkaan saapuminen kivijalkakauppaan ja tietosuojaan liittyvän näkökulman vaikutus myyntitilanteessa. Kuvauksen pohjalta voidaan pohtia miten asiakkaan ostopäätöstä voitaisiin vahvistaa?*
+## Mikä saisi asiakkaan käyttämään palvelua?
+
+Houkutteleva visuaalinen sivuston ulkoasu. 
+Helppokäyttöisyys, esim. yksinkertaiset napit, selkeät ohjetekstit, värimaailma.
+Turvallisuus - palvelun käyttö on turvallista ja asiakas on tyytyväinen.
+
 
 ```plantuml
 Step1: Asiakas löytää sivuille 
