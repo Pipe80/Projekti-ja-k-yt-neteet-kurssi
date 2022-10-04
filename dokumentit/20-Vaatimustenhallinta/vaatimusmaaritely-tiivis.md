@@ -71,34 +71,21 @@ Foorumilla voi keskustella ja kommentoida toisten aloittamia keskusteluja. Fooru
 *Tarkastelun kohteena on satunnaisen asiakkaan saapuminen kivijalkakauppaan ja tietosuojaan liittyvän näkökulman vaikutus myyntitilanteessa. Kuvauksen pohjalta voidaan pohtia miten asiakkaan ostopäätöstä voitaisiin vahvistaa?*
 
 ```plantuml
-Step1: Palvelun kuvaus esillä näyteikkunan mainosnäytössä 
-Step2: Asiakas astuu ovesta sisään 
-Step3: Palveluun tutustuminen jatkuu sisätiloissa itsenäisesti
-Step4: Asiakas kysyy myyjää
-Step5: Myyjä esittelee tuotteen lyhyesti
-Step6: Asiakas pohdiskelee asiaa
-Step7: Asiakas tekee sopimuksen palvelusta
-Step8: Asiakas ei ota tuotettava
-Step9: Myyjä suosittelee lisäpalveluita
-Step10: Myyjä pyytää asiakkaan sähköposti-osoitetta ja henkilöturvatunnusta
-Step11: Asiakas kieltäytyy luovuttamasta HETUa ja kauppa keskeytyy
-Step12: Miten tämä voidaan välttää?
+Step1: Asiakas löytää sivuille 
+Step2: Asiakas tutustuu palveluun
+Step3: Asiakas saa palvelusta ensivaikutelman
+Step4: Asiakas tekee päätöksen, jääkö sivuille
+Step5: Asiakas käyttää palvelua
+Step12: Asiakas poistuu palvelusta
 
 [*] --> Step1
 Step1 --> Step2
 Step2 --> Step3
 Step3 --> Step6
 Step3 --> Step4
+Step4 --> Step12
 Step4 --> Step5
-Step5 --> Step6
-Step6 --> Step7
-Step6 --> Step8
-Step9 --> Step6
-Step8 --> Step12
-Step7 --> Step9
-Step9 --> Step10
-Step10 --> Step11
-Step11 --> Step12
+Step5 --> Step12
 ```
 
 ## Palvelun ominaisuudet (Features)
