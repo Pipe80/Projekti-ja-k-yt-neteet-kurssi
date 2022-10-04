@@ -26,7 +26,6 @@ Foorumilla voi keskustella ja kommentoida toisten aloittamia keskusteluja. Fooru
 ++ Testaaja
 ++ Ohjelmoija
 +++ Asiakas
-++ Sivuston käyttäjä, opiskelija
 -- Toimivuus
 --- Sisältö
 --- Sivuston sijainti
