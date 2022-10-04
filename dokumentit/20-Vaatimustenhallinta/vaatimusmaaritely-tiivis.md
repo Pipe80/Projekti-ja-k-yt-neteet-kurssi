@@ -4,7 +4,7 @@
 |:-:|:-:|
 | Dokumentti | Tiivistetty vaatimusmääritelmä |
 | Laatija: | Pirjo M |
-| Versio: | 0.3 |
+| Versio: |0.9 |
 | Päivämäärä: | 4.10.2022 |
 
 ## Johdanto
@@ -40,7 +40,7 @@ Foorumilla voi keskustella ja kommentoida toisten aloittamia keskusteluja. Fooru
 | ID |  Nimi | Kuvaus | Motivaatio |
 |:-:|:-:|:-:|:-:|
 | SR-001 | [Asiakas profiili Jonne](pohjat/pohja-profiilikuvaus.md) | Nuori 16-22V | Selkeä tarve palvelulle ja tarvitsee palvelua usein |
-| SR-002 | [Asiakas profiili Anne](pohjat/pohja-profiilikuvaus.md) | Aikuinen 22-45V | Tarve satunnainen, mutta yleisin asiakas  |
+| SR-002 | [Asiakas profiili Anne](pohjat/pohja-profiilikuvaus2.md) | Aikuinen 22-45V | Tarve satunnainen, mutta yleisin asiakas  |
 | SR-003 | [Sidosryhmä - Rahoittaja Roope]() | Pääomasijoittaja | Palvelun tuottamat tuotot |
 | SR-004 | [Sidosryhmä - Hakkeri Harri]() | Nuori hakkeri | Kerätä tietoa ja haavoittuvuuksia  |
 
