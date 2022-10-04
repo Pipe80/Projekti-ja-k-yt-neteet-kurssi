@@ -43,6 +43,7 @@ Foorumilla voi keskustella ja kommentoida toisten aloittamia keskusteluja. Fooru
 | SR-002 | [Asiakas profiili Anne](pohjat/pohja-profiilikuvaus4.md) | Aikuinen 22-45V | Tarve satunnainen, mutta yleisin asiakas  |
 | SR-003 | [Sidosryhmä - Rahoittaja Roope](pohjat/pohja-profiilikuvaus3.md) | Pääomasijoittaja | Palvelun tuottamat tuotot |
 | SR-004 | [Sidosryhmä - Hakkeri Harri](pohjat/pohja-profiilikuvaus2.md) | Nuori hakkeri | Kerätä tietoa ja haavoittuvuuksia  |
+| SR-005 | [Sidosryhmä - Palveluntuottaja N5589](pohjat/pohja-profiilikuvaus5.md) | Keski-ikäinen täti-ihminen | Palvelun ylläpitäjä  |
 
 ## Palveluun liittyviä asiakaspolkuja
 
