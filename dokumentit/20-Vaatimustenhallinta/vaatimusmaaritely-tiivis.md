@@ -76,16 +76,16 @@ Step2: Asiakas tutustuu palveluun
 Step3: Asiakas saa palvelusta ensivaikutelman
 Step4: Asiakas tekee päätöksen, jääkö sivuille
 Step5: Asiakas käyttää palvelua
-Step12: Asiakas poistuu palvelusta
+Step6: Asiakas poistuu palvelusta
 
 [*] --> Step1
 Step1 --> Step2
 Step2 --> Step3
 Step3 --> Step6
 Step3 --> Step4
-Step4 --> Step12
+Step4 --> Step6
 Step4 --> Step5
-Step5 --> Step12
+Step5 --> Step6
 ```
 
 ## Palvelun ominaisuudet (Features)
