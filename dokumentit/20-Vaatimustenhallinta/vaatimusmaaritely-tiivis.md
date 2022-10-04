@@ -1,10 +1,10 @@
-# Tiivistetty vaatimusmäärittely (pohja)
+# Tiivistetty vaatimusmäärittely
 
 |  |  |
 |:-:|:-:|
 | Dokumentti | Tiivistetty vaatimusmääritelmä |
 | Laatija: | Pirjo M |
-| Versio: |1.1 |
+| Versio: |1.5 |
 | Päivämäärä: | 4.10.2022 |
 
 ## Johdanto
@@ -47,32 +47,13 @@ Foorumilla voi keskustella ja kommentoida toisten aloittamia keskusteluja. Fooru
 
 ## Palveluun liittyviä asiakaspolkuja
 
->Mietitään toimeksiantoa ja pohditaan liittyykö sen käyttöön jotain yleisiä tapahtumia esimerkiksi ennen käyttöä tai sen jälkeen. Miten palvelu/ratkaisu otetaan käyttöön ja millä tavoin sitä käytetään osana  palvelupolkuja?  
->Asiaspolkukuvauksen avulla kuvataan tapahtuma sarjaa joka käydään jossain valitussa tilanteessa läpi palvelun käytön aikana. Asiakas ohtaisia palvelupolkuja voi olla useita erilaisia, mutta tärkeintä on tunnistaa alkuvaiheessa oleellisimmat. 
->Palvelupolun kuvaukseen voidaan hyödytnää sim. Uimaratakaaviota (Swim Lane) tai tilakonekuvausta (State Machine Diagram) tai muuta sopivaksi katsottua tapaa. Tärkeintä on kuvata polku ja sen avulla selkeyttämään ymmärrystä tavoitellusta palvelusta. 
-
->**Eri kuvauksia tehdään yhteisen ymmärryksen saavuttamiseksi, ei pelkästään yksittäisen kehittäjän iloksi**
-
-**Pieni tarina**
->*Mieti millä tavoin eri henkilöt valikoituvat Play Station/Steam/XBOX/Nintendo pelijärjestelmien käyttäjiksi? Mitkä ovat perusteet henkilökohtaiselle palvelun valinnalle? Onko käyttäjäryhmissä selkeitä eroja? Millaisia pelejä nämä ryhmät arvostavat? Millä tavoin liittyminen peli palveluun tapahtuu käytännössä? Mistä löytyy tarvittaessa VISA-kortti? Vaihda mielessäsi henkilön ikää ja huomaat, että ns. asiakaspolku (customer journey path) vaihtelee pelkästään iän mukaan! Tämä on erittäin tärkeä hahmottaa ajoissa, koska palvelun kehittäjän on otettava huomioon erilaiset potentiaaliset asiakkaat.* 
-
-**asiakaspolku PlantUML-esimerkki tilakoneena**
-
->Mikä on asiakaspolku, eli "Customer Journey Map". Hyviä esimerkkejä löytyy esimerkkinä Youtuben kautta. Kokeile luonnostella asiakaspolku hyödyntäen PlantUML-työkalua. Kannattaa kokeilla myös muita tapoja! Esimerkkissä käytetään UML-tilankone kuvausta (State Diagram).
-
-![](../assets/work-to-do.png)
-
-
->Ennen kuvausta kannataa tehdä johdanto teksti, jossa esitellään mitä kuvauksessa on tarkoitus tarkastella! 
-
-
-
-## Mikä saisi asiakkaan käyttämään palvelua?
+Kuinka saada asiakkaat sivustolle? Mainonta, sosiaalinen media, verkostot, esim. ystäväpiirit.
+Kuinka saada sivustosta turvallinen? Kirjautuminen, vahva salasana, testaus.
+Palvelun helppokäyttöissys
 
 Houkutteleva visuaalinen sivuston ulkoasu. 
 Helppokäyttöisyys, esim. yksinkertaiset napit, selkeät ohjetekstit, värimaailma.
 Turvallisuus - palvelun käyttö on turvallista ja asiakas on tyytyväinen.
-
 
 ```plantuml
 Step1: Asiakas löytää sivuille 
