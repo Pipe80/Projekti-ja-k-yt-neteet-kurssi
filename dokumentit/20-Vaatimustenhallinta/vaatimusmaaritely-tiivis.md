@@ -4,8 +4,8 @@
 |:-:|:-:|
 | Dokumentti | Tiivistetty vaatimusmääritelmä |
 | Laatija: | Pirjo M |
-| Versio: | 0.2 |
-| Päivämäärä: | 20.0.2022 |
+| Versio: | 0.3 |
+| Päivämäärä: | 4.10.2022 |
 
 ## Johdanto
 
@@ -20,53 +20,32 @@ Foorumilla voi keskustella ja kommentoida toisten aloittamia keskusteluja. Fooru
 
 ## Sidosryhmäkartta
 
->*Kuvaa sidosryhmäkartan avulla millaisia käyttäjä, sidosryhmiä tai muita toimijoita liittyy olennaisesti suunniteltun ratkaisuun/palveluun? Kirjataan kaikki tunnistetut sidosryhmät sidosryhmäkartan muotoon. Samalla kirjataan sidosryhmän/toimijan motivaatio palvelua kohtaan. Sidosryhmä kuvauksen voi laatia esim. piirtämällä se eri työkalulla, MindMap-muodossa tai soveltaen sopivaa PlantUML-generaattoria. (Suositeltava vaihtoehto)*
-
-**Tarinaa väliin**
-
->*Palvelua kehitettäessä on otettava selvää taustoista ja pyrittävä ymmärtämään itse toimialaa tai tarkasteltua toimintaympäristöä. Tähän tarvitaan taustatietoa ja asiakastuntemusta. Henkilöt joilla on ns. toimialaosaamista (Domain Knowledge) ovat tässä vaiheessa vahvoilla. Kannattaa kuunnella asiakasta ja kerätä tietoa perehtymällä aiheeseen myös itsenäisesti. Toimeksiantajalla on varmasti tarjolla tietoa, jonka pohjalta on helpompi ymmärtää toimialaa, joka saattaa olla alkuvaiheessa arvoitus ratkaisun tekijälle*
-
->*Tutustu aiemmin mainittuun PlantUML-työkaluun ja kokeilaan luoda tuotteeseen liittyvä sidosryhmäkartta. Löydät ohjeistuksen osoitteesta [http://plantuml.com/](http://plantuml.com/).* 
->Huomio, että Gitlabin tapauksessa MarkDown dokumenteissa PlantUML-koodilohkon merkitsemisessä ei käytetä alkuperäistä tägäystä. 
-
-* käytä @startuml sijaan *```plantuml*
-* käytä @enduml sijaan *```*
-
->Muokkaa alla olevaa sidosryhmäkuvausta toimeksiannon mukaisesti ja samalla opit miten tarvittavia kuvauksia voidaan tuottaa PlantUML:n avulla.
-
-![](../assets/work-to-do.png)
-
-
 ```plantuml
 @startmindmap
-+ Projektin tuotos
++ Wimma lab foorumi
 ++ Asiakas
-+++ Asiakkaan kaveri
-+++ Asiakkaan sukulainen
-++ Kilpaileva valmistaja
-+++ Kilpailijan kissa
-+++ Kilpailijan koira
--- Kauppias
---- Varasto
---- Noutopiste 1.
--- Haasteelliset asiakkaat
---- Kiusantekijä
---- Satunnainen säätäjä
++++ Testaaja
++++ Ohjelmoija
+++ Sivuston käyttäjä, opiskelija
++++ Taustatiedon selvitys
++++ 
+-- Toimivuus
+--- Sisältö
+--- Sivuston sijainti
+-- Tietoturva-aukot
+--- Hakkerit
+--- Sivuston turvallisuus, salasanat
 @endmindmap
 ```
 
 **Tarkennettut sidosryhmätprofiilit** 
-
-![](../assets/work-to-do.png)
-
->*Sidosryhmäkartan avulla saadaan yleiskuva eri toimijoista (actor), jotka liittyvät oleellisesti ratkaisuun/palveluun. Jos pohdimme tarkemmin esimerkiksi erilaisia palvelun loppukäyttäjiä voimme huomata niissä olevan selkeitä eroja. Tästä johtuen joudutaan tarkentamaan ja erittelemään kuvausta ja luomaa tarvittasessa ns. profiilikuvaus. Tämän kuvauksen avulla voidaan tarkemmin tarkentaa kohderyhmän luonnetta. Tarkemman kuvauksen tuottamiseksi voi luoda profiilikohtaisen kuvaustiedoston. Tämä tiedosto luodan kopioimalla tarvittavia tiedostoja jokaiselle profiilille. Eli kopio profiilin kuvaukselle pohja tiedostosta *pohja-profiilikuvaus* ja tallenna se repositorioon sopivasti tunnistettavalla nimeämällä se profiilin mukaisesti. Tarkennettuja profiilikuvauksia luodaan tarpeen mukaan. Alla olevassa taulukossa on esitelty muutamia esimerkki profiileja ja tarpeelliset tiedot löytyvät taulukosta.*
 
 | ID |  Nimi | Kuvaus | Motivaatio |
 |:-:|:-:|:-:|:-:|
 | SR-001 | [Asiakas profiili A](pohjat/pohja-profiilikuvaus.md) | Nuori 16-22V | Selkeä tarve palvelulle ja tarvitsee palvelua usein |
 | SR-002 | [Asiakas profiili B](pohjat/pohja-profiilikuvaus.md) | Aikuinen 22-45V | Tarve satunnainen, mutta yleisin asiakas  |
 | SR-003 | [Sidosryhmä - Rahoittaja]() | Pääomasijoittaja | Palvelun tuottamat tuotot |
-| SR-004 | [Sidosryhmä - verottaja]() | Nuori karhu | Kerätä verotuloja  |
+| SR-004 | [Sidosryhmä - Hakkeri]() | Nuori hakkeri | Kerätä tietoa ja haavoittuvuuksia  |
 
 ## Palveluun liittyviä asiakaspolkuja
 
