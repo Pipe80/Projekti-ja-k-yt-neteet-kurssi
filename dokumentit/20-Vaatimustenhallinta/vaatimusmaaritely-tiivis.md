@@ -24,6 +24,7 @@ Foorumilla voi keskustella ja kommentoida toisten aloittamia keskusteluja. Fooru
 @startmindmap
 + Wimma lab foorumi
 ++ Testaaja
++++ Asiakas
 ++ Ohjelmoija
 +++ Asiakas
 -- Toimivuus
