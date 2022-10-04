@@ -1,4 +1,4 @@
-# Profiilikuvaus (pohja)
+# Profiilikuvaus
 
 ![](https://cdn.pixabay.com/photo/2018/10/01/15/44/business-3716552_1280.jpg)
 
