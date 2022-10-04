@@ -41,8 +41,8 @@ Foorumilla voi keskustella ja kommentoida toisten aloittamia keskusteluja. Fooru
 |:-:|:-:|:-:|:-:|
 | SR-001 | [Asiakas profiili Jonne](pohjat/pohja-profiilikuvaus.md) | Nuori 16-22V | Selkeä tarve palvelulle ja tarvitsee palvelua usein |
 | SR-002 | [Asiakas profiili Anne](pohjat/pohja-profiilikuvaus2.md) | Aikuinen 22-45V | Tarve satunnainen, mutta yleisin asiakas  |
-| SR-003 | [Sidosryhmä - Rahoittaja Roope]() | Pääomasijoittaja | Palvelun tuottamat tuotot |
-| SR-004 | [Sidosryhmä - Hakkeri Harri]() | Nuori hakkeri | Kerätä tietoa ja haavoittuvuuksia  |
+| SR-003 | [Sidosryhmä - Rahoittaja Roope](pohjat/pohja-profiilikuvaus3.md) | Pääomasijoittaja | Palvelun tuottamat tuotot |
+| SR-004 | [Sidosryhmä - Hakkeri Harri](pohjat/pohja-profiilikuvaus4.md) | Nuori hakkeri | Kerätä tietoa ja haavoittuvuuksia  |
 
 ## Palveluun liittyviä asiakaspolkuja
 
