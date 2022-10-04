@@ -25,5 +25,5 @@ Jonne arvostaa helppokäyttöisyyttä ja nopeutta.
 
 ### Välineet ja kyvyt etc.
 
-
+Jonne on taitava tietokoneiden ja nettisivujen kanssa. Haluaa asioiden tapahtuvan nopeasti.
 
