@@ -1,4 +1,4 @@
-# Profiilikuvaus (pohja)
+# Profiilikuvaus Jonne
 
 ![](https://cdn.pixabay.com/photo/2016/10/06/03/30/man-1718099_1280.jpg)
 
