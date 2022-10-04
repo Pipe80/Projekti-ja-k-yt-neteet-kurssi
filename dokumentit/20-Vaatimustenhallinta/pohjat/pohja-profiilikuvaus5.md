@@ -25,4 +25,4 @@ N5589 arvostaa ihmisiä, jotka näkevät pintaa syvemmältä.
 
 Hieman vanhentunut tietokone, jonka pitää koko ajan olla seinässä kiinni, muutoin akku loppuu ja koulutöiden teko hankaloituu.
 Motivaatiota muillekkin tarjottavaksi. Pannullinen kahvia ja aamun hyvät vitsit. Tai huonot vitsit.
-
+Motto: " Onnellisia ovat puupäät, sillä he eivät koskaan huku!"
