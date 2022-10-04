@@ -22,29 +22,12 @@ Foorumilla voi keskustella ja kommentoida toisten aloittamia keskusteluja. Fooru
 
 ```plantuml
 @startmindmap
-+ Conduit
-++ N5589
-+++ Projektipäällikkö Pirjo M
-+++ Teemu K
-+++  Marko Rintamäki
--- CodeCerub
---- Asiakkaan edustaja Kari Pitkäniemi
-++ Laadunvalvonta organisaatio
-+++ Testipäällikkö
-+++ Testaaja
-+++ Käytettävyystestaaja
-@endmindmap
-```
-
-```plantuml
-@startmindmap
 + Wimma lab foorumi
 ++ Asiakas
 +++ Testaaja
 +++ Ohjelmoija
 ++ Sivuston käyttäjä, opiskelija
 +++ Taustatiedon selvitys
-+++ 
 -- Toimivuus
 --- Sisältö
 --- Sivuston sijainti
