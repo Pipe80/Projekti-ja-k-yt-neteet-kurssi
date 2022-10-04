@@ -23,9 +23,9 @@ Foorumilla voi keskustella ja kommentoida toisten aloittamia keskusteluja. Fooru
 ```plantuml
 @startmindmap
 + Wimma lab foorumi
-+ Ohjelmoija
-++ Testaaja
-+++ Asiakas
+++ Ohjelmoija
++++ Testaaja
+++++ Asiakas
 -- Toimivuus
 --- Sisältö
 --- Sivuston sijainti
