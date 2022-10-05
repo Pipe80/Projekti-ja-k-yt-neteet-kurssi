@@ -84,9 +84,8 @@ Step5 --> Step6
 
 **Pääominaisuudet ja toiminnot**
 
-![](../assets/work-to-do.png)
+Conduit keskustelupalsta, johon pystyy kirjoittamaan kommentin ja kommentoimaan toisten kirjoituksia.
 
-**HUOMIO** harjoituksessa ei tarvitse määritellä itsenäistä ominaisuutta tarkemmin!
 
 | Ominaisuus (Feature) | Toiminto (Function) |
 |:-:|:-:|
