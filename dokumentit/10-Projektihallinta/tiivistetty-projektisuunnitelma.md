@@ -3,106 +3,75 @@
 |  |  |
 |:-:|:-:|
 | Dokumentti | Tiivistetty projektisuunnitelma |
-| Laatija: | |
-| Versio: | |
-| Päivämäärä: | |
+| Laatija: | Pirjo M |
+| Versio: | 1.8|
+| Päivämäärä: |6.10.2022 |
 
-![](https://openclipart.org/image/400px/167242)
-
+![](https://cdn.pixabay.com/photo/2018/08/06/21/32/darknet-3588402_1280.jpg)
 
 ## 1. Toimeksianto 
-
 ## 1.1 Tausta ja lähtökohdat
 
-
-![](../assets/work-to-do.png)
-
->Kuvataan toimeksiantoa lyhyesti johdannon muodossa. Tarpeen mukaan ohjataan lukijaa tutustumaan tarvittaessa tarkemmin vaatimusmäärittelydokumenttiin.
->Projektin tavoitteena on pyrkiä yhdistämään .... on tarve kehittää” < kohdetta>… 
->Projekti toteutetaan Jyväskylän ammattikorkeakoulun informaatioteknologian instituutin järjestämän <TTOS2070> ‑opintojakson puitteissa. 
->Kohde on usein laajempi käsite kuin varsinainen projektille määriteltävä tehtävä. Kohde kuvaa selkeällä tavalla, usein graafiseen esitykseen tukeutuen,
->millaisesta järjestelmäkokonaisuudesta tai toiminnasta on kyse, johon ollaan tekemässä nyt projektissa jotain osakokonaisuutta/täydennystä. 
->Tässä siis kuvataan nykyjärjestelmää ja asiakkaan nykyistä toimintatapaa.
+KCodeCerub Oy on saanut asiakkaakseen WIMMA Lab-koulutusympäristön, joka on nyt laajentamassa toimintaansa. WIMMA Labin toimintaa pyritään avaamaan eri sidosryhmille ja siihen tarvitaan uusia sähköisiä palveluja. Toimeksianto CodeCerub Oy:lle on kehittää WIMMA Labin käyttöön soveltuva Foorumi-palvelu, joka liitetään osaksi kotisivuja. Foorumin toteutuksen pohjana hyödynnetään (Open Source) avoimen lähdekoodin perustuvaa Conduit-ohjelmistoa, jo on asiakkaan esittämä vaatimus. Syynä tähän on tiukka aikataulu. Asiakkaalla on vahva oletus, että tämä säästää aikaa kehitykseltä ja voidaan keskittyä nopeampaan käyttöönottoon.
+Projekti toteutetaan Jyväskylän ammattikorkeakoulun järjestämän <TTC2070> ‑opintojakson puitteissa.
 
 ## 1.2 Tavoitteet ja tehtävät
 
-![](../assets/work-to-do.png)
+Projektina on toteuttaa WIMMA Labin käyttöön soveltuva Foorumi-palvelu, joka liitetään osaksi kotisivuja.
+Projektin tavoite on muokata ja kehittää nykyisestä Conduit-ohjelmistosta paremmin asiakkaan tarpeeseen sopiva versio. Tärkeimpinä toimintoina asiakas edellyttää käyttöliittymän sulavaa integrointia WIMMA Lab-kotisivun kanssa ja saumatonta liittämistä osaksi kotisivuja. Lisäksi tietosuojan vaikutukset on otettava huomioon palvelun tuotannossa.
 
-> ”Tässä dokumentissa kuvataan X-projektin taustaa, tavoitteita, tehtäviä, vaihejakoa, resursseja ja organisaatiota. Vaihejaon yhteydessä on kuvattu jokainen vaihe erikseen lyhyesti.”
-> Tähän voi liittää lähteeksi vaatimusmäärittelyn sisältöä
-> Määritellään työn keskeisin sisältö tässä projektissa; projektin tehtävä liittyy projektin kohteessa kuvattuun kokonaisuuteen. 
-> Mitä toimintaa aiotaan kehittää ja miten?>
-> Visio tulevasta tilasta
-> Mikä on tuotettava lopputulos (konkreettinen)?
-> Mitkä ovat osa- tai välitulokset?>
-> Mitä henkilöitä, toimijoita tai ryhmiä liittyy projektiin projektin 
-> Tähän voi liittää Sidosryhmäkuvauksen tai käyttää lähteenä vaatimusmäärittelyä ?
-> Esitellään palvelukuvaus ja sen mahdollinen muutoskohteet projektin myötä
+Asiakkaan edustajana toimii ohjaaja Kari Pitkäniemi
 
+Johtoryhmään kuuluvat seuraavat henkilöt:
+Pirjo M (N5589)
+WIMMA Labin tekninen arkkitehti Teemu K
+WIMMA Labin edustaja Kari Pitkäniemi.
+Tuoteomistaja Marko Rintamäki
+
+Tietoturvan osalta edellytetään Kyberturvallisuus keskuksen jakamia tunnettuja hyviä käytänteitä. 
+Nämä lähteet toimivat myös lähteinä vaatimusmäärittelylle.  ![](https://www.kyberturvallisuuskeskus.fi/fi/toimintamme/saantely-ja-valvonta/tietoturva)
 
 ## 1.3 Rajaus ja liittymät
 
-> Täsmennetään projektin tehtävää rajaamalla ulkopuolelle jäävät osat kohteena olevasta järjestelmästä tai kokonaishankkeesta. 
-> Erikseen on syytä kuvata myös tehtävän suorittamista merkittävästi rajoittavat ulkoiset tekijät. Tässä myös täsmennetään ne 
-> tehtäväkokonaisuudet, jotka nyt tehtävään osioon tulevat vielä todennäköisesti jossain vaiheessa liittymään, mutta joita ei 
-> tämän projektin puitteissa kuitenkaan tulla toteuttamaan. Tyypillisiä tällaisia tehtäviä voisivat olla mm. käyttöympäristön
-> rakentaminen ja koulutus. Muina rajauksina voisi olla esim. ohjelmiston käyttöliittymässä käytettävä kieli.
+Projektin tehtävänä on toteuttaa Conduit-ohjelmiston pohjalle Foorumi-ratkaisu asiakkaan toiveiden mukaan. 
+Palvelun ylläpitovastuu jää tuotteen toimituksen jälkeen Code Cerub:ille. Toimeksiantoon eivät liity muut ratkaisut Foorumin ulkopuolella.
 
 ## 1.4 Oikeudet
 
->"Eri osapuolten oikeudet on määritelty projektisopimuksessa.” Ellei erillisessä sopimuksessa ole kerrottu oikeuksista työn tuloksiin, tulee ne ilmaista esim. tässä projektisuunnitelmassa. 
+Eri osapuolten oikeudet on määritelty projektisopimuksessa.
 
 ## 1.5 Termit ja määritelmät
 
->Tässä kappaleessa esitellään projektisuunnitelmassa esiintyvät määritelmät, termit ja lyhenteet. 
+CASE = Computer aided software engineering, tietokoneavusteinen systeemityö
+JAMK = Jyväskylän ammattikorkeakoulu
+SWOT-kuvaus = Strengths, Weaknesses, Opportunities, Threats eli suomeksi Vahvuudet, Heikkoudet, Mahdollisuudet ja Uhat
+IT = Information technology
 
 ## 1.6 Projektiin liittyvät haasteet
-
->Tarkastellaan projektin tavoitteita ja laaditaan tarvittaessa tueksi erillinen SWOT-kuvaus, jossa tarkastellaan projektia ja sen toimintaympäristöä eri näkökulmista. 
-
-![](https://openclipart.org/image/800px/247839)
+![SWOT](assets/swot.jpg)
 
 ## 2. Projektiorganisaatio
 
 ## 2.1 Organisaation esittely
 
-![](../assets/work-to-do.png)
-
-> Kuka kuuluu projektiorganisaatioon? Onko projektiryhmän/tiimin lisäksi muita toimijoita? 
-
-**Projektin eri osapuolet ja jäsenet**
-
-| Nimi | Organisaatio | Vastuu |
-|:-:|:-:|:-:|
-| | | |
-| | | |
-
-* Tässä voi olla linkki myös tiimin esittelyyn?
-
-![](../assets/work-to-do.png)
-
 **Projektiorganisaation rakenne MindMap-muodossa**
 
 ```plantuml
 @startmindmap
-+ Tuotos
-++ Tuotantotiimi
-+++ Projektipäällikkö
-+++ Henkilö1
-+++ Henkilö2
-+++ Henkilö3
--- Tilaaja
---- Tilaajan edustaja1
---- Tilaajan edustaja2
++ Conduit
+++ N5589
++++ Projektipäällikkö Pirjo M
++++ Teemu K
++++  Marko Rintamäki
+-- CodeCerub
+--- Asiakkaan edustaja Kari Pitkäniemi
 ++ Laadunvalvonta organisaatio
 +++ Testipäällikkö
 +++ Testaaja
 +++ Käytettävyystestaaja
--- Verottaja
---- Itse Karhu
---- Virkailija
 @endmindmap
 ```
+* Tässä voi olla linkki myös tiimin esittelyyn?
 
 ## 2.2 Vastuut ja päätöksentekoprosessi
 
