@@ -1,4 +1,4 @@
-# Tiivistetty projektisuunnitelma (pohja)
+# Tiivistetty projektisuunnitelma
 
 |  |  |
 |:-:|:-:|
@@ -62,7 +62,6 @@ ps. pöllöt löytyi, olin täyttänyt vahingossa laajaa projektisuunnitelmaa, d
 @startmindmap
 + Conduit
 ++ N5589
-+++ Projektipäällikkö Pirjo M
 +++ Teemu K
 +++  Marko Rintamäki
 -- CodeCerub
