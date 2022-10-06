@@ -119,14 +119,14 @@ Tästä voidaan nostaa esiin muutama oleellisia vaiheita kuten:
 **Esitetään vaiheet yksinkertaisen GANTT diagrammin avulla**
 
 ```plantuml
-Project starts the 2021-5-15
-[Projekti aktiivinen] Starts 2021-5-15 and ends 2021-8-15 
-[Määrittely vaihe] Starts 2021-5-15 and ends 2021-5-20
-[Suunittelu] Starts 2021-5-20 and ends 2021-6-5
-[Toteutus+suunnittelu] Starts 2021-6-5 and ends 2021-7-15
-[Testaus+korjaus] Starts 2021-7-16 and ends 2021-8-1
-[Hyväksyntätestaus] Starts 2021-8-1 and ends 2021-8-10
-[Luovutus] Starts 2021-8-10 and ends 2021-8-15
+Project starts the 2022-9-10
+[Projekti aktiivinen] Starts 2022-9-12 and ends 2022-12-1
+[Määrittely vaihe] Starts 2022-9-12 and ends 2022-9-18
+[Suunittelu] Starts 2022-9-19 and ends 2022-10-2
+[Toteutus+suunnittelu] Starts 2022-10-3 and ends 2022-11-3
+[Testaus+korjaus] Starts 2022-11-4 and ends 2022-11-20
+[Hyväksyntätestaus] Starts 2022-11-21 and ends 2022-11-26
+[Luovutus] Starts 2022-11-27 and ends 2022-12-1
 ```
 
 ![](../assets/work-to-do.png)
