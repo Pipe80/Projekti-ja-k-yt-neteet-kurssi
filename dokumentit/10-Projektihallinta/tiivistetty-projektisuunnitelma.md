@@ -49,6 +49,7 @@ IT = Information technology
 
 ## 1.6 Projektiin liittyvät haasteet
 ![SWOT](assets/swot.jpg)
+ps. pöllöt löytyi, olin täyttänyt vahingossa laajaa projektisuunnitelmaa, damned.
 
 ## 2. Projektiorganisaatio
 
