@@ -1,12 +1,14 @@
 # Tervetuloa OPF-käyttäjäksi!
 
-
-
 Moi moi!
 
-## Apua ja neuvoja
+Pirjon OPF-kehikko, tervetuloa!
 
-* Kotisivut löytyvät [täältä](http://open-project-framework.pages.labranet.jamk.fi/)
+![https://cdn.pixabay.com/photo/2019/06/13/13/06/monster-4271569_1280.png]
+
+
+
+
 
 
 
