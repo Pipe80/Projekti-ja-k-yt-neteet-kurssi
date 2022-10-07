@@ -1,6 +1,6 @@
 # Tilannekatsaus
 
-![](https://cdn.pixabay.com/photo/2019/06/13/13/06/monster-4271569_1280.png)
+![](https://cdn.pixabay.com/photo/2017/04/18/23/35/frog-2240764_1280.jpg)
 
 * [Tiimin esittely](../10-Projektihallinta/esittely.md)
 * [Kotisivut](https://jamkit.pages.labranet.jamk.fi/project-templates/opf-site-template-ff-v1/)
@@ -42,10 +42,4 @@ Viimeisen viikon sprintti, lopputarkistukset, yhteenveto
 
 
 * [Links to problematic issue tickets?](), eg. #1, #10 and #9
-
-
-**Seuraavat askeleet**
-
->Mihin seuraavaksi keskitytään?
-
 
