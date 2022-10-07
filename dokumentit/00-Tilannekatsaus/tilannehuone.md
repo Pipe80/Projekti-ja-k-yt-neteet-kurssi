@@ -17,8 +17,9 @@ Tutustuminen asiakkaaseen, Codecerubiin, Wimmalabiin.
 ## Projektitilanne sprint E3/viikolla 39 26.9.2022**
 Tiivistetyn projektisuunnitelman tekoa
 
-## Projektitilanne sprint E4/viikolla 40 3.10.2022**
-Vaatimusmäärittelyn valmistelua, projektisuunnitelman päivitystä. Unohtuneiden sprinttien lisäys.
+## Projektitilanne sprint E4/viikolla 40 3.10.2022
+Vaatimusmäärittelyn valmistelua, projektisuunnitelman päivitystä. 
+Unohtuneiden sprinttien lisäys.
 Tilannekatsauksen päivittäminen.
 
 ## Projektitilanne sprint E5/viikolla 41 10.10.2022**
