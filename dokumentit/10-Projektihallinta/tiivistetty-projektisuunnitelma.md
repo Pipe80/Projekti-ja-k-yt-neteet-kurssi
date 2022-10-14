@@ -108,11 +108,25 @@ ps. pöllöt löytyi, olin täyttänyt vahingossa laajaa projektisuunnitelmaa, d
 >Projektin etenemistä voidaan kuvata ns. GANTT-kaaviolla. Sen avulla voidaan esittää eri vaiheiden eteneminen aikajanalla, samalla voidaan osoittaa projektin eri vaiheisiin liittyvät kriittiset pisteet / etapit. Ohjelmistoprojekteissa karkea etenemisjärjestystä voi kuvata ohjelmistojen [SDLC](https://en.wikipedia.org/wiki/Systems_development_life_cycle )-mallilla.
 Tästä voidaan nostaa esiin muutama oleellisia vaiheita kuten:
 
+* Käynnistysvaihe
+![Etapit ja Sprintit](pohjat/EtappiE0.jpg)
+
 * Määrittely
-* Suunnittelu
-* Toteutus
-* Testaus
+![Etapit ja Sprintit](pohjat/EtappiE1.jpg)
+
+* Suunnittelu ja toteutus
+![Etapit ja Sprintit](pohjat/EtappiE2.jpg)
+
+* Toteutus ja korjaus
+![Etapit ja Sprintit](pohjat/EtappiE3.jpg)
+
+* Toteutus ja testaus
+![Etapit ja Sprintit](pohjat/EtappiE4.jpg)
+
 * Luovutus
+![Etapit ja Sprintit](pohjat/EtappiE5.jpg)
+
+
 
 ![Etapit ja Sprintit](etapitJaSprintit.jpg)
 
