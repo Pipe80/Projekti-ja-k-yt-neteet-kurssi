@@ -140,12 +140,12 @@ ps. pöllöt löytyi, olin täyttänyt vahingossa laajaa projektisuunnitelmaa, d
 ```plantuml
 Project starts the 2022-9-12
 [Projekti aktiivinen] Starts 2022-9-12 and ends 2022-12-11
-[Määrittely vaihe] Starts 2022-9-12 and ends 2022-9-25
-[Suunittelu] Starts 2022-9-26 and ends 2022-10-9
-[Toteutus+suunnittelu] Starts 2022-10-10 and ends 2022-11-13
-[Testaus+korjaus] Starts 2022-11-14 and ends 2022-11-27
-[Hyväksyntätestaus] Starts 2022-11-28 and ends 2022-12-4
-[Luovutus] Starts 2022-12-5 and ends 2022-12-11
+[Määrittely vaihe E0] Starts 2022-9-12 and ends 2022-9-25
+[Suunittelu E1] Starts 2022-9-26 and ends 2022-10-9
+[Toteutus+suunnittelu E2] Starts 2022-10-10 and ends 2022-11-13
+[Testaus+korjaus E3] Starts 2022-11-14 and ends 2022-11-27
+[Hyväksyntätestaus E4] Starts 2022-11-28 and ends 2022-12-4
+[Luovutus E5] Starts 2022-12-5 and ends 2022-12-11
 ```
 
 Päivitä linkit omaan projektiin liittyviksi!
@@ -157,11 +157,9 @@ Päivitä linkit omaan projektiin liittyviksi!
 * [Etappi 4](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/6)
 * [Etappi 5](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/6)
 
+Projekti on jaettu kokonaisuuksiin etapeihin ja sprintteihin, joita pyritään noudattamaan koko projektin ajan.
 
 
-
->Projektin osittamisella tarkoitetaan projektin jakamista selkeisiin osakokonaisuuksiin ja niitä vastaaviin toteutuskokonaisuuksiin (osaprojekteihin, vaiheisiin, tehtäväkokonaisuuksiin ja tehtäviin). >Tutkimus- ja kehitysprojektien etenemiselle on tyypillistä lopputuloksen muodostuminen ja tavoitteen tarkentuminen vaihe vaiheelta. Projektin osituksen tulee perustua tähän lähtökohtaan (koskee myös >IT-instituutin opiskelijaprojekteja). 
->Projektin elinkaari voidaan jakaa erityyppisiin vaiheisiin. Kussakin vaiheessa tuotetaan määrätyt tuotteet, kuten selvitys, suunnitelmat, prototyyppi, laite jne. Kunkin vaiheen loppuun sovitaan arviointi, hyväksyntä tai katselmointi. Ohjelmistoprojekti jakautuu tyypillisesti seitsemään vaiheeseen: perustaminen, esitutkimus, analyysi, suunnittelu, toteutus, testaus ja lopettaminen. Joskus esitutkimus on oma projektinsa, joskus analyysi sisällytetään suunnitteluun jne. Testaus ei välttämättä ole oma vaiheensa, vaan se sisältyy kaikkiin vaiheisiin. Usein edetään inkrementaalisesti eli ensin suunnitellaan ja toteutetaan yksi asia kokonaisuudessaan ennen kuin edetään seuraavaan asiakokonaisuuteen. Ei ole yhtä ainutta ”oikeaa” vaihejakoa, mutta jos toimeksiantajalla on oma menetelmänsä ja siihen liittyvät mallipohjat, niin opiskelijaprojekteissa käytetään ensisijaisesti niitä. Yhä useammin käytetään ketterää sovelluskehitystä eli ohjelmisto tehdään 1-4 viikon sprinteissä.
 
 >Mitä tavoitteita  / vaiheita projekti sisältää? (Lyhyt kuvaus kustakin)> <Mitä tuloksia kustakin vaiheesta syntyy? >
 
