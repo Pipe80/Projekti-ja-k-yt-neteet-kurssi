@@ -138,17 +138,15 @@ ps. pöllöt löytyi, olin täyttänyt vahingossa laajaa projektisuunnitelmaa, d
 **Esitetään vaiheet yksinkertaisen GANTT diagrammin avulla**
 
 ```plantuml
-Project starts the 2022-9-10
-[Projekti aktiivinen] Starts 2022-9-12 and ends 2022-12-1
-[Määrittely vaihe] Starts 2022-9-12 and ends 2022-9-18
-[Suunittelu] Starts 2022-9-19 and ends 2022-10-2
-[Toteutus+suunnittelu] Starts 2022-10-3 and ends 2022-11-3
-[Testaus+korjaus] Starts 2022-11-4 and ends 2022-11-20
-[Hyväksyntätestaus] Starts 2022-11-21 and ends 2022-11-26
-[Luovutus] Starts 2022-11-27 and ends 2022-12-1
+Project starts the 2022-9-12
+[Projekti aktiivinen] Starts 2022-9-12 and ends 2022-12-11
+[Määrittely vaihe] Starts 2022-9-12 and ends 2022-9-25
+[Suunittelu] Starts 2022-9-26 and ends 2022-10-9
+[Toteutus+suunnittelu] Starts 2022-10-10 and ends 2022-11-13
+[Testaus+korjaus] Starts 2022-11-14 and ends 2022-11-27
+[Hyväksyntätestaus] Starts 2022-11-28 and ends 2022-12-4
+[Luovutus] Starts 2022-12-5 and ends 2022-12-11
 ```
-
-![](../assets/work-to-do.png)
 
 Päivitä linkit omaan projektiin liittyviksi!
 
