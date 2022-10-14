@@ -72,13 +72,13 @@ ps. pöllöt löytyi, olin täyttänyt vahingossa laajaa projektisuunnitelmaa, d
 +++ Käytettävyystestaaja
 @endmindmap
 ```
-* Tässä voi olla linkki myös tiimin esittelyyn?
+![Tiimin esittely](https://gitlab.labranet.jamk.fi/fi-a2022-ttc2070/ht1-N5589-/core/-/blob/master/dokumentit/10-Projektihallinta/esittely.md)
 
 ## 2.2 Vastuut ja päätöksentekoprosessi
 
 >Tähän kirjataan kaikkien projektiorganisaatioon kuuluvien (esim. johtoryhmä, projektipäällikkö, sihteeri, ryhmä, >ohjaajat) vastuut sekä päätöksentekoprosessi (esim. projektipäällikkö valmistelee ja esittää johtoryhmän päätettäväksi…)
 
->”Projektiryhmä suorittaa johtoryhmän projektille asettamat tehtävät käytettävissä olevien resurssien puitteissa. >Projektin aikana ryhmän päällikön ja sihteerin roolit kiertävät ryhmän sisällä siten, että jokainen ryhmän jäsen toimii >kerran kummassakin roolissa.”
+>”Projektiryhmä suorittaa johtoryhmän projektille asettam[]at tehtävät käytettävissä olevien resurssien puitteissa. >Projektin aikana ryhmän päällikön ja sihteerin roolit kiertävät ryhmän sisällä siten, että jokainen ryhmän jäsen toimii >kerran kummassakin roolissa.”
 
 >”Johtoryhmän muodostavat siihen valitut projektiryhmän, ohjaajien ja toimeksiantajan edustajat. Johtoryhmän kokouksiin >voidaan tarvittaessa kutsua myös muita henkilöitä, esim. asiantuntijoita.Johtoryhmän kokoonpano on esitelty >projektisopimuksen liitteessä <X>.” 
 
