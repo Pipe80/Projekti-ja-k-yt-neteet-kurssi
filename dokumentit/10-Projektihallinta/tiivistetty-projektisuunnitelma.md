@@ -113,7 +113,8 @@ Tästä voidaan nostaa esiin muutama oleellisia vaiheita kuten:
 * Toteutus
 * Testaus
 * Luovutus
-![Etapit ja Sprintit](10-Projektihallinta/etapitJaSprintit.jpg)
+
+![Etapit ja Sprintit](etapitJaSprintit.jpg)
 
 
 
