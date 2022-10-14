@@ -148,54 +148,30 @@ Project starts the 2022-9-12
 [Luovutus E5] Starts 2022-12-5 and ends 2022-12-11
 ```
 
-Päivitä linkit omaan projektiin liittyviksi!
-
-* [Etappi 0](https://gitlab.labranet.jamk.fi/fi-a2022-ttc2070/ht1-N5589-/core/-/issues/50)
-* [Etappi 1](https://gitlab.labranet.jamk.fi/fi-a2022-ttc2070/ht1-N5589-/core/-/issues/16)
-* [Etappi 2](https://gitlab.labranet.jamk.fi/fi-a2022-ttc2070/ht1-N5589-/core/-/issues/17)
-* [Etappi 3](https://gitlab.labranet.jamk.fi/fi-a2022-ttc2070/ht1-N5589-/core/-/issues/18)
-* [Etappi 4](https://gitlab.labranet.jamk.fi/fi-a2022-ttc2070/ht1-N5589-/core/-/issues/48)
-* [Etappi 5](https://gitlab.labranet.jamk.fi/fi-a2022-ttc2070/ht1-N5589-/core/-/issues/20)
-
 Projekti on jaettu kokonaisuuksiin etapeihin ja sprintteihin, joita pyritään noudattamaan koko projektin ajan.
 
+* [Etappi 0](https://gitlab.labranet.jamk.fi/fi-a2022-ttc2070/ht1-N5589-/core/-/issues/50)
+Tutustutaan toimeksiantoon, perehdytään asiakkaan antamiin tietoihin. Aloitetaan projektisuunnitelman laatiminen.
+Esitellään tiimi. 
 
+* [Etappi 1](https://gitlab.labranet.jamk.fi/fi-a2022-ttc2070/ht1-N5589-/core/-/issues/16)
+Projektisuunnitelman hyväksyminen, tavoitteiden tarkistaminen. Pidetään johtoryhmän kokous sekä allekirjoitetaan projektisopimus.
 
->Mitä tavoitteita  / vaiheita projekti sisältää? (Lyhyt kuvaus kustakin)> <Mitä tuloksia kustakin vaiheesta syntyy? >
+* [Etappi 2](https://gitlab.labranet.jamk.fi/fi-a2022-ttc2070/ht1-N5589-/core/-/issues/17)
+Vaatimusmäärittelyn suunnittelu, minkälainen budjetti ja aikataulu. Tässä kohdassa tehdään suurin työ.
+Suunnitellaan ja toteutetaan asiakkaan toivomia ominaisuuksia. Tavoitteiden tarkistaminen.
 
-Seuraavassa käydään jokainen vaihe, niiden vaatimat aikaresurssit ja tulokset läpi lyhyesti. Vaiheet ja niiden tehtävät kuvataan tarkemmin vaihesuunnitelmissa. Parhaillaan meneillään olevasta vaiheesta tulee olla tiedossa tarkasti kuka tekee ja kuinka paljon työtä tämän vaiheen tehtävien suorittamiseksi. Myöhempien vaiheiden työmääräarviot voidaan esittää alkuvaiheessa karkealla tasolla, jota sitten projektin edetessä tarkennetaan yksityiskohtaiselle tasolle. Tämä tapahtuu jokaisen vaiheen lopussa, jolloin suunnitellaan tarkemmin seuraava vaihe.
+* [Etappi 3](https://gitlab.labranet.jamk.fi/fi-a2022-ttc2070/ht1-N5589-/core/-/issues/18)
+Toteutus ja korjaus. Sivujen pitäisi toimia jo niinkuin on suunniteltu. Katselmointi ja tilanneraportti.
 
-Huom.: Seuraavassa on esitetty käynnistys- ja lopetusvaiheet. Kaikista projektin vaiheista, niiden kestoista ja työmääristä laaditaan myös nk. Gantt-kaavio (liitteenä), jossa näkyy myös vaiheiden väliset riippuvuudet ja tärkeimmät etapit (esim. johtoryhmän kokouspäivämäärät).
+* [Etappi 4](https://gitlab.labranet.jamk.fi/fi-a2022-ttc2070/ht1-N5589-/core/-/issues/48)
+Viimehetken korjaukset ja yritetään löytää kaikki mahdolliset bugit ja viet, ennenkuin tuote menee asiakkaalle.
 
->Projektin eteneminen kannataa jakaa ns. tavoitteisiin/etappeihin. Näiden tehtävän on osoittaa ajanhetkeä, jollon jokin oleellinen projektin vaihe on tarkoitus saavuttaa. Projektille määritellyt etapit voidaan linkittää dokumentaation kanssa yhteen käyttäen apuna Issue/Milestone linkkejä avulla. *Katso esimerkit alla*
-
-
-
-
-* [Etappi 0](https://gitlab.labranet.jamk.fi/jamkit/project-templates/fi-opf-2021-core-template-v2/-/milestones/1)
-
->esim. ryhmän webbisivut, tutustutaan tarkemmin toimeksiantoon, aloitetaan kohdealueeseen perehtyminen ja laaditaan projektisuunnitelma yhteistyössä toimeksiantajan edustajien kanssa. 
->Projektin käynnistämiseen kuuluu olennaisesti projektisuunnittelu ja suunnitteludokumenttien laatiminen sekä yhteydenpitokäytänteiden luominen toimeksiantajayrityksen kanssa. Vaiheen aikana tehdään
->Etappiin mennessä muodostetaan johtoryhmä, pidetään johtoryhmän kokous sekä allekirjoitetaan projektisopimus.
-
-* [Etappi Z](https://gitlab.labranet.jamk.fi/jamkit/project-templates/fi-opf-2021-core-template-v2/-/milestones/3)
-
->Esimerkkinä Etappi Z , jossa tavoitteet on asetettu ennakkon esimerkkeinä: projektisuunnitelman hyväksyminen, tavoitteiden tarkistaminen
-
-* [Etappi X](https://gitlab.labranet.jamk.fi/jamkit/project-templates/fi-opf-2021-core-template-v2/-/milestones)
-
->Sovittu etappi X, jossa suoritettaa esimerkisi katselmointi ja esitetään tilanneraportti
-
-* [Etappi Y](https://gitlab.labranet.jamk.fi/jamkit/project-templates/fi-opf-2021-core-template-v2/-/milestones)
-
-
-* [Etappi Z](https://gitlab.labranet.jamk.fi/jamkit/project-templates/fi-opf-2021-core-template-v2/-/milestones)
-
->”Lopettamisvaihe sisältää projektin päättämiseen liittyvät toimenpiteet. Vaiheen aikana projektiryhmä laatii projektin loppuraportin ja esityksen johtoryhmälle. Vaiheen aikana luovutetaan projektin tulos toimeksiantajalle, pidetään viimeinen johtoryhmän kokous viikolla X sekä puretaan projektin organisaatio. Lopettamisvaiheen tuloksena on projektin loppuraportti.”
+* [Etappi 5](https://gitlab.labranet.jamk.fi/fi-a2022-ttc2070/ht1-N5589-/core/-/issues/20)
+Projekti valmis asiakkaalle ja julkaisuun.
+Tehdään projektin loppuraportti ja esitys johtoryhmälle. Projekti luovutetaan asiakkaalle. 
 
 ## 3.2 Projektin alustavat kustannusarvio
-
-![](../assets/work-to-do.png)
 
 Kustannusarvion esittäminen taulukon avulla: 
 
