@@ -4,7 +4,7 @@
 |:-:|:-:|
 | Dokumentti | Tiivistetty projektisuunnitelma |
 | Laatija: | Pirjo M |
-| Versio: | 2.4 |
+| Versio: | 2.9 |
 | Päivämäärä: |14.10.2022 |
 
 ![](https://cdn.pixabay.com/photo/2018/08/06/21/32/darknet-3588402_1280.jpg)
@@ -175,7 +175,7 @@ Tehdään projektin loppuraportti ja esitys johtoryhmälle. Projekti luovutetaan
 
 Kustannusarvion esittäminen taulukon avulla: 
 
-![](kustannusarvio.jpg)
+![](pohjia/kustannusarvio.jpg)
 
 ## 4. Laadunvarmistus
 
