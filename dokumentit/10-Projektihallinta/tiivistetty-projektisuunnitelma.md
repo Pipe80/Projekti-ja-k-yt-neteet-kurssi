@@ -109,26 +109,26 @@ ps. pöllöt löytyi, olin täyttänyt vahingossa laajaa projektisuunnitelmaa, d
 Tästä voidaan nostaa esiin muutama oleellisia vaiheita kuten:
 
 * Käynnistysvaihe
-![Etapit ja Sprintit](pohjat/EtappiE0.jpg)
+![Etapit ja Sprintit](pohjia/EtappiE0.jpg)
 
 * Määrittely
-![Etapit ja Sprintit](pohjat/EtappiE1.jpg)
+![Etapit ja Sprintit](pohjia/EtappiE1.jpg)
 
 * Suunnittelu ja toteutus
-![Etapit ja Sprintit](pohjat/EtappiE2.jpg)
+![Etapit ja Sprintit](pohjia/EtappiE2.jpg)
 
 * Toteutus ja korjaus
-![Etapit ja Sprintit](pohjat/EtappiE3.jpg)
+![Etapit ja Sprintit](pohjia/EtappiE3.jpg)
 
 * Toteutus ja testaus
-![Etapit ja Sprintit](pohjat/EtappiE4.jpg)
+![Etapit ja Sprintit](pohjia/EtappiE4.jpg)
 
 * Luovutus
-![Etapit ja Sprintit](pohjat/EtappiE5.jpg)
+![Etapit ja Sprintit](pohjia/EtappiE5.jpg)
 
 
 
-![Etapit ja Sprintit](etapitJaSprintit.jpg)
+![Etapit ja Sprintit](pohjia/etapitJaSprintit.jpg)
 
 
 
