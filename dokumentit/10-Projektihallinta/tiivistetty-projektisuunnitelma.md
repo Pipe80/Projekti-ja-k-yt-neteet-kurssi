@@ -126,8 +126,7 @@ Tästä voidaan nostaa esiin muutama oleellisia vaiheita kuten:
 * Luovutus
 ![Etapit ja Sprintit](pohjia/EtappiE5.jpg)
 
-
-
+* Kokonaiskaavio Etapeista ja Sprinteistä sekä aikataulusuunnittelusta
 ![Etapit ja Sprintit](pohjia/etapitJaSprintit.jpg)
 
 
