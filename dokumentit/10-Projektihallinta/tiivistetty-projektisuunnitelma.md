@@ -72,7 +72,7 @@ ps. pöllöt löytyi, olin täyttänyt vahingossa laajaa projektisuunnitelmaa, d
 +++ Käytettävyystestaaja
 @endmindmap
 ```
-![Tiimin esittely](https://gitlab.labranet.jamk.fi/fi-a2022-ttc2070/ht1-N5589-/core/-/blob/master/dokumentit/10-Projektihallinta/esittely.md)
+![Tiimi](https://gitlab.labranet.jamk.fi/fi-a2022-ttc2070/ht1-N5589-/core/-/blob/master/dokumentit/10-Projektihallinta/esittely.md)
 
 ## 2.2 Vastuut ja päätöksentekoprosessi
 
