@@ -113,7 +113,9 @@ Tästä voidaan nostaa esiin muutama oleellisia vaiheita kuten:
 * Toteutus
 * Testaus
 * Luovutus
-![Etapit ja Sprintit](https://gitlab.labranet.jamk.fi/fi-a2022-ttc2070/ht1-N5589-/core/-/blob/master/dokumentit/10-Projektihallinta/etapitJaSprintit.jpg)
+![Etapit ja Sprintit](10-Projektihallinta/etapitJaSprintit.jpg)
+
+
 
 
 **Esitetään vaiheet yksinkertaisen GANTT diagrammin avulla**
