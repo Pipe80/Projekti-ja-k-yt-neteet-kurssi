@@ -90,17 +90,15 @@ Conduit keskustelupalsta, johon pystyy kirjoittamaan kommentin ja kommentoimaan 
 | Ominaisuus (Feature) | Toiminto (Function) |
 |:-:|:-:|
 | *[Sisäinen sähköposti](pohjat/pohja-ominaisuus.md)* | |
-|| Asiakas_A voi lähettää postia ulkopuoliselle henkilölle Mahdollinen_Asiakas_C |
-|| Asiakas_A voi saada postia palvelun sisäiseltä käyttäjältä Asiakas_B |
+|| Asiakas pystyy keskustelemaan keskustelupalstalla |
+|| Asiakas voi saada vastauksen aloittamaansa keskusteluun |
 | *[laskutus](pohjat/pohja-ominaisuus.md)* ||
-|| Ylläpito_henkilö voi poistaa laskun Asiakaalta_A |
-|| Ylläpito_henkilö voi luoda uuden laskun Asiakkaalle_A | 
+|| Ylläpito voi poistaa asiakkaan (häiriökäyttäytyminen) |
+|| Ylläpito voi tarkistella kaikkia tapahtumia | 
 | *[Pelitilanteen hallinta](pohjat/pohja-ominaisuus.md)* | |
-|| Pelaaja_B kykenee tallettamaan tilanteen |
-|| Asiakas_B voi jakaa pelitilanteen Asiakkaalle_A |
-| *[Suorasoitto](pohjat/pohja-ominaisuus.md)* ||
-|| Asiakas_A voi soittaa tuntemalleen henkilölle Asiakas_B |
-|| Asiakas_A voi soittaa tuntemattomalle henkilölle, jos soitto on sallittu |
+|| Asiakas voi saada sähköpostia, mikäli hänen keskusteluun vastataan |
+|| Asiakas voi irtisanoutua palvelusta |
+
 
 
 >Jokainen ominaisuus kannattaa kuvata itsenäisenä dokumenttina, koska niihin liittyy paljon tarkentavaa tietoa. Tutustu esimerkkinä [FEAT0001](20-Vaatimustenhallinta/ominaisuus-FEA0001.md). Kuvauksen tekemiseen käytetään tarvittaessa seuraavaa [pohjaa](pohja/../pohjat/pohja-ominaisuus.md). 
