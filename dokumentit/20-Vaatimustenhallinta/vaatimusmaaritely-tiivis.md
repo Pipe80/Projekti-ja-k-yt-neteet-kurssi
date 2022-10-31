@@ -4,8 +4,8 @@
 |:-:|:-:|
 | Dokumentti | Tiivistetty vaatimusmääritelmä |
 | Laatija: | Pirjo M |
-| Versio: |1.5 |
-| Päivämäärä: | 4.10.2022 |
+| Versio: |1.6 |
+| Päivämäärä: | 31.10.2022 |
 
 ## Johdanto
 
@@ -89,7 +89,7 @@ Conduit keskustelupalsta, johon pystyy kirjoittamaan kommentin ja kommentoimaan 
 
 | Ominaisuus (Feature) | Toiminto (Function) |
 |:-:|:-:|
-| *[Sisäinen sähköposti](pohjat/pohja-ominaisuus.md)* | |
+| *[Sivustolle pystyy kirjautumaan](pohjat/pohja-ominaisuus.md)* | |
 || Asiakas pystyy keskustelemaan keskustelupalstalla |
 || Asiakas voi saada vastauksen aloittamaansa keskusteluun |
 | *[laskutus](pohjat/pohja-ominaisuus.md)* ||
@@ -98,6 +98,9 @@ Conduit keskustelupalsta, johon pystyy kirjoittamaan kommentin ja kommentoimaan 
 | *[Pelitilanteen hallinta](pohjat/pohja-ominaisuus.md)* | |
 || Asiakas voi saada sähköpostia, mikäli hänen keskusteluun vastataan |
 || Asiakas voi irtisanoutua palvelusta |
+|| Asiakas voi laittaa keskusteluun avainsanoja eli tageja |
+|| Tageilla voi etsiä tiettyjä keskusteluja |
+
 
 
 
