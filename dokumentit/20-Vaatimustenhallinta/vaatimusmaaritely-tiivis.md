@@ -89,15 +89,16 @@ Conduit keskustelupalsta, johon pystyy kirjoittamaan kommentin ja kommentoimaan 
 
 | Ominaisuus (Feature) | Toiminto (Function) |
 |:-:|:-:|
-| *[Sivustolle pystyy kirjautumaan](pohjat/pohja-ominaisuus.md)* | |
+| *[Keskustelupalstalle pystyy kirjoittamaan](pohjat/pohja-ominaisuus.md)* | |
 || Asiakas pystyy keskustelemaan keskustelupalstalla |
 || Asiakas voi saada vastauksen aloittamaansa keskusteluun |
-| *[laskutus](pohjat/pohja-ominaisuus.md)* ||
+| *[Ylläpito](pohjat/pohja-ominaisuus.md)* ||
 || Ylläpito voi poistaa asiakkaan (häiriökäyttäytyminen) |
 || Ylläpito voi tarkistella kaikkia tapahtumia | 
-| *[Pelitilanteen hallinta](pohjat/pohja-ominaisuus.md)* | |
+| *[Asiakkaan toiminnallisuudet](pohjat/pohja-ominaisuus.md)* | |
 || Asiakas voi saada sähköpostia, mikäli hänen keskusteluun vastataan |
 || Asiakas voi irtisanoutua palvelusta |
+| *[Tagit](pohjat/pohja-ominaisuus.md)* | |
 || Asiakas voi laittaa keskusteluun avainsanoja eli tageja |
 || Tageilla voi etsiä tiettyjä keskusteluja |
 
@@ -109,23 +110,22 @@ Conduit keskustelupalsta, johon pystyy kirjoittamaan kommentin ja kommentoimaan 
 
 **Kirjataan ominaisuudet vielä MindMap-muotoon ja samalla linkitetään niihin liittyvät toiminnot**
 
-![](../assets/work-to-do.png)
-
 ```plantuml
 @startmindmap
-+ Tuote X, eli tuotettava ratkaisu
-++ Ominaisuus A - sisäinen sähköposti
-+++ Asiakas_A voi lähettää postia toiselle henkilölle
-+++ Asiakas_A voi saada postia toiselta henkilöltä
-++ Ominaisuus B - Laskutus
-+++ Ylläpito-henkilö voi poistaa laskun Asiakaalta
-+++ Ylläpito-henkilö voi luoda uuden laskun Asiakkaalle
--- Ominaisuus C - Dokumentin jakotoiminto
---- Toiminto 5 - Asiakas_B voi jakaa kuvatiedoston
---- Toiminto 6 - Asiakas_A voi kommentoida dokumenttia
--- Ominaisuus D - Pelitilanteen talletus
---- Toiminto 7 - Pelaaja_C kykenee tallettamaan tilanteen valitulla hetkellä
---- Toiminto 8 - Pelaaja_C voi poistaa aiemman talletukse
++ Conduit keskustelupalsta
+++ Palveluun pystyy kirjautumaan
++++ Asiakas voi kirjoittaa kommentin
++++ Asiakas voi vastata toiseen keskusteluun
++++ Asiakas voi saada ilmoituksen sähköpostiin, mikäli hänen keskusteluun joku kommentoi
+++ Tietoturva
++++ Bottitarkistus ja spämmi
++++ Henkilökohtaisien tietojen salassa pito
+-- Ominaisuus C - Tägit
+--- Toiminto 5 - Asiakas voi laittaa keskuteluun tägejä
+--- Toiminto 6 - Asiakas voi löytää keskustelun tägien avulla
+-- Ominaisuus D - Asiakastilin ominaisuudet
+--- Toiminto 7 - 
+--- Toiminto 8 - Asiakas voi kirjautua ulos palvelusta
 @endmindmap
 ```
 
