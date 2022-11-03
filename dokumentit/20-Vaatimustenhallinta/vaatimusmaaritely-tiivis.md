@@ -149,75 +149,75 @@ Conduit keskustelupalsta, johon pystyy kirjoittamaan kommentin ja kommentoimaan 
 
 ## Ketterän kehittämisen käyttötarinat - User Story 
 
--Palvelun tuottajana haluan, että palvelu huomauttaa artikkelin kirjoittajalle (suomeksi) tekstin sisällön asiallisuudesta, jos se sisältää "ala-arvoista" kieltä. 
+- Palvelun tuottajana haluan, että palvelu huomauttaa artikkelin kirjoittajalle (suomeksi) tekstin sisällön asiallisuudesta, jos se sisältää "ala-arvoista" kieltä. 
 Issue#37   
 User Story
 
--Palvelun tuottajana haluan käytää konttien jakamisessa labranetin gitlab rekisteriä 
+- Palvelun tuottajana haluan käytää konttien jakamisessa labranetin gitlab rekisteriä 
 Issue#36
 User Story
  
--Järjestelmän ylläpitäjänä haluan että tuotannon tietokannasta voidaan ottaa tarvittaessa backup komentoriviltä
+- Järjestelmän ylläpitäjänä haluan että tuotannon tietokannasta voidaan ottaa tarvittaessa backup komentoriviltä
 Issue#35 
 User Story
 
--Palvelun kehittäjänä haluan saada loppukäyttäjän palautteen Issue-muodossa eteeni, koska se on selkeämpää jatkokäsitellä
+- Palvelun kehittäjänä haluan saada loppukäyttäjän palautteen Issue-muodossa eteeni, koska se on selkeämpää jatkokäsitellä
 Issue#34
 User Story
 
--Palvelun käyttäjän toivon, että palvelu on luotettava ja se käyttää suojattuja HTTPS-yhteyttä, koska en uskalla käyttää HTTP-palveluja nykyaikana
+- Palvelun käyttäjän toivon, että palvelu on luotettava ja se käyttää suojattuja HTTPS-yhteyttä, koska en uskalla käyttää HTTP-palveluja nykyaikana
 Issue#33
 User Story
 
--Toimeksiantajana toivon, että sivusto näyttää visuaalisesti yhtenäiseltä, jos käyttäjä menee foorumille
+- Toimeksiantajana toivon, että sivusto näyttää visuaalisesti yhtenäiseltä, jos käyttäjä menee foorumille
 Issue#32
 User Story
 
--Kehittäjänä haluan käynnistää kehitysympäristön nopeasti käyttäen kontteja
+- Kehittäjänä haluan käynnistää kehitysympäristön nopeasti käyttäen kontteja
 Issue#31  
 User Story
 
--Testaajana haluan käyttää Docker-kontteja, koska se helpottaa testi ympäristön pystyttämistä
+- Testaajana haluan käyttää Docker-kontteja, koska se helpottaa testi ympäristön pystyttämistä
 Issue#30
 User Story
 
--Palvelutuottajan haluan vaihtaa palvelun värit WIMMA Lab-sivuston mukaisiksi
+- Palvelutuottajan haluan vaihtaa palvelun värit WIMMA Lab-sivuston mukaisiksi
 Issue#29
 User Story
 
--Palvelutuottajan on palvelustamme löydyttävä tietosuojakuvaus infosivu, koska GDPR sitä edellyttää
+- Palvelutuottajan on palvelustamme löydyttävä tietosuojakuvaus infosivu, koska GDPR sitä edellyttää
 Issue#28
 User Story
 
--Palvelutuottajana haluan auttaa loppukäyttäjää erillisen tukiportaalin kautta kuormittamatta kehitystiimiä ylimääräisillä kysmyksillä
+- Palvelutuottajana haluan auttaa loppukäyttäjää erillisen tukiportaalin kautta kuormittamatta kehitystiimiä ylimääräisillä kysmyksillä
 Issue#27
 User Story
 
--Palvelutuottajana haluan saada palautetta loppukäyttäjilä, jonka perusteella tuotetta voidaan kehitää paremmaksi
+- Palvelutuottajana haluan saada palautetta loppukäyttäjilä, jonka perusteella tuotetta voidaan kehitää paremmaksi
 Issue#26 
 User Story
 
--Forumin käyttäjänä toivon voivani palata helposti WIMMA Lab-sivustolle, koska haluan vielä tarkastella sitä uudelleen
+- Forumin käyttäjänä toivon voivani palata helposti WIMMA Lab-sivustolle, koska haluan vielä tarkastella sitä uudelleen
 Issue#25
 User Story
 
--Kehittäjänä haluan, että voin käynnistää kehitysympäristön docker-compose up komennolla
+- Kehittäjänä haluan, että voin käynnistää kehitysympäristön docker-compose up komennolla
 Issue#24
 User Story
 
--Palvelutuottajana haluan ajaa palvelua Docker-tekniikan varassa, koska se selkeyttää tuotantoa
+- Palvelutuottajana haluan ajaa palvelua Docker-tekniikan varassa, koska se selkeyttää tuotantoa
 Issue#23  
 User Story
 
--Keskustelupalstalla vastaus ominaisuus
+- Keskustelupalstalla vastaus ominaisuus
 Issue#22
 User Story
 
--Asiakas haluaa keskustelupalstan
+- Asiakas haluaa keskustelupalstan
 Issue#21
 User Story
 
--Käyttäjänä haluan, että voin luoda raportin tekemistäni ostoista viimeisen kuukauden ajalta, koska se helpottaa oman talouteni hallintaa
+- Käyttäjänä haluan, että voin luoda raportin tekemistäni ostoista viimeisen kuukauden ajalta, koska se helpottaa oman talouteni hallintaa
 Issue#14
 User Story
 
