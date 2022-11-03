@@ -74,14 +74,6 @@ Step5 --> Step6
 
 ## Palvelun ominaisuudet (Features)
 
-
->*Kaikki palveluun/ohjelmistoon liittyvät toiminnot (Functions) voidaan kirjaan alkuvaiheessa ns. toiminnallisina vaatimuksina (Functional Requirements), mutta näistä osa niistä osoittautuu melko varmasti palvelun kannalta oleellisiksi ominaisuuksiksi (Features). Tärkeimmät ominaisuudet on tunnistettava riittävästi alkuvaiheessa, koska niiden pohjalta ohjataan tuotekehitystä projektin edetessä.* 
-
->*Mietitään seuraavaksi miltä ovat palvelun tärkeimmät toiminnalliset ominaisuudet? Kirjataan ne tässä vaiheessa ne taulukkoon ja luodaan niiden pohjalta myös hahmotelma MindMap-kuvauksen muotoon. Kuvan avulla palvelun eri osa-alueet saattava hahmottua selkeämmin.* 
->*Mieti esimerkisi tilannetta, että sinulta kysytään mitä kehittämällasi palvelulla voi käytännössä tehdä? Saat aikaa vastata 15 sekuntia. Mitä vastaat?*
->*Mitä tärkeimpiä toimintoja nostatat esiin?* 
->*Mitkä ominaisuudet tekevätä tuotteestasi on paremman kuin muilla?*
-
 **Pääominaisuudet ja toiminnot**
 
 Conduit keskustelupalsta, johon pystyy kirjoittamaan kommentin ja kommentoimaan toisten kirjoituksia.
@@ -101,8 +93,6 @@ Conduit keskustelupalsta, johon pystyy kirjoittamaan kommentin ja kommentoimaan 
 | *[Tagit](pohjat/pohja-ominaisuus.md)* | |
 || Asiakas voi laittaa keskusteluun avainsanoja eli tageja |
 || Tageilla voi etsiä tiettyjä keskusteluja |
-
-
 
 
 >Jokainen ominaisuus kannattaa kuvata itsenäisenä dokumenttina, koska niihin liittyy paljon tarkentavaa tietoa. Tutustu esimerkkinä [FEAT0001](20-Vaatimustenhallinta/ominaisuus-FEA0001.md). Kuvauksen tekemiseen käytetään tarvittaessa seuraavaa [pohjaa](pohja/../pohjat/pohja-ominaisuus.md). 
@@ -223,97 +213,35 @@ User Story
 
 ## Tietojärjestelmiä yleisesti koskevista vaatimuksista
 
->Laajoja tietojärjestelmiä/ohjelmistoja suunniteltaessa vaatimuksia voidaan kirjata eri näkökulmista. Tietojärjestelmien suunnittelussa voi käyttää analogiana kuvaa jäävuoresta, josta pinnalla näkyy osa, mutta iso osa (90%) on piilossa veden alla. Tämä pätee tietojärjestelmän vaatimuksiin. Korkealta tasolta katsottuna näyttää kokonaisuus ehkä selkeältä, mutta yksityiskohtiin mentäessä työ hankaloituu. 
-
-![](https://openclipart.org/image/400px/29153)
-
->Vaatimusmäärittelyn työstäminen voidaan nähdä kahden eri näkökulman kannalta.
-
-**Ongelma kenttä (Problem Domain) vs Ratkaisu kentttä (Solution Domain)**
-
->Eli on tunnettava riittävän tarkasti ongelmakenttä (Asiakkaan/toimeksiantajan tarve), että voidaan kehittää siihen sopiva ratkaisu (esim. ohjelmistopalvelu)
-
->Tietojärjestelmän vaatimusten eri muotoja voivat olla olla esimerkiksi
->* Asiakasvaatimukset (Customer Needs)
->* Liiketoimintavaatimukset (Business Requirements/Needs)
->* Järjestelmävaatimukset (System Requirements)
->* Ali-järjestelmän vaatimukset (Sub-System Requirement)
->* Komponenttitason vaatimukset (Component Requirements)
-
->Opintojakson kannalta keskitytään tunnistamaan toiminnalliset vaatimukset, ei-toiminnalliset vaatimukset (suorituskyky, tietoturva ja saavutettavuus)
-
-* [Vaatimusmäärittelystä Wikipediassa](https://en.wikipedia.org/wiki/Requirements_analysis)
-
-*Vaatimusten jäljitettävyydestä*
-
->Eri vaatimusten eri muodoilla voidaan tarkastella kehitettävää tuotetta eri näkökulmista, mutta eri tasojen välillä olevilla vaatimuksilla voi olla yhteys. 
-Näitä yhteyksiä kutsutaan vaatimusten jäljitettävyydeksi (Traceablity). 
-
-> * *Asiakasvaatimus CUST001* -> *Ominaisuus FEA001* --> *Toiminnallinen vaatimus Y*
-> * *Asiakasvaatimus CUST001* -> *Liiketoiminnan vaatimus BISREQ100* -> *Ominaisuus FEA001*
-> * *Tietoturvavaatimus SEC001* -> *Ominaisuus FEA001*
-
->Vahvan jäljitettävyyden avulla voidaan tarkastella yksittäisten muutosten vaikutusta koko tuotteeseen. Tässä tilanteessa voidaan yksittäistä vaatimusta "törmäyttää" ja nähdään minne kaikkialle vaikutus ulottuu (Impact analysis).
->Tämän vaatii vaatimusmäärittelytyön tueksi tarkoitukseen sopia työkaluja (Requirement Management Tools)
 
 ## Palveluun liittyvät tekniset vaatimukset
 
->Kokonaisvaltaisia ohjelmisto palveluja määriteltäessa on tärkeä tunnistaa ja määritellä palvelun tuottamiseksi tarvittavat teknologiat, laitteistot tai muut tärkeät osa-järjestelmät. Esimerkkinä tarvittava palvelinympäristö, tietokanta, varmistusjärjestelmät ja muut palvelun toiminnan kannalta oleelliset tarpeet.
-
-*Esimerkkinä on kirjattu muutamia laitteistovaatimuksia (Hardware Requirements)*
+Tarvittava palvelinympäristö, tietokanta, varmistusjärjestelmät ja muut palvelun toiminnan kannalta oleelliset tarpeet.
 
 | ID | Kuvaus | 
 |:-:|:-:|
 | HWREQ-0001 | Palvelun on oltava skaalattavissa HA-proxy ratkaisun varassa | |
 | HWREQ-0002 | Palvelimen muistikapasiteeti >32GB  ||
 | HWREQ-0003 | Palvelimen fyysinen sijainti on oltava EU-aluella| |
-| HWREQ-0004 |... ||
 
 ## Laadulliset vaatimukset (Non-functional Requirements)
 
->Laadulliset vaatimukset tarkastelevat palvelua ns. ei-toiminnallisesta näkökulmasta. Kuulostaa ehkä äkkiseltään hankalalta, mutta mieti seuraavia kysymyksiä?
-
-* *Miten tuottesta saadaan kehitettyä riittävän turvallinen? Onko joitain vaatimuksia, jotka on täytettävä tästä johtuen? (tietoturva-security)*
-* *Mitkä asiat on huolehdittava, että tuote on hyväksyttävissä viranomaisten käyttöön? (yhteensopivuus-conformance)*
-* *Miten paljon käyttäjiä palvelussa voi olla yhtäaikaa(suorituskyky-performance)
-* *Onko palvelun tarkoitus joskus toimia laajemmalle käyttäjäkunnalle(skaalautuvuus-scalability)*
-* *Miten voidaan varmistaa, että palvelu on saavutettavissa kaikkien käyttäjien kannalta?(skaalautuvuus-scalability)*
-* *Onko tarvetta eri kieliversioille?(saavutettavuus-accessability)*
-* *Mitä on otettava huomioon palvelua jatkokehitettäessä? (ylläpidettävyys-maintainability)*
-* *Mitä teknologioita voidaan käyttää?(ylläpidettävyys-maintainability)*
-
->[Ei-toiminnalliset vaatimuksia](https://en.wikipedia.org/wiki/Non-functional_requirement) on useita eri tyyppejä, mutta opintojen kannalta tärkeimmiksi on valittu: suorituskyky, tietoturva ja saavutettavuus 
->* Suorituskyky (Performance Requirement)
->* Tietoturva (Security Requirement)
->* Saavutettavuus (Accessability Requirement)
 
 ### Suorituskykyvaatimukset (Performance Requirements)
 
-
-
->Millaisia vaatimuksia palveluun kohdistuu suorituskyvyn näkökulmasta?
->Mitä tarkoittaa suorituskyvyn testaus, eli [load testing](https://en.wikipedia.org/wiki/Load_testing) Tutustu myös K6-työkaluun? [K6-Load Tester](https://k6.io/)
-
-| ID | Kuvaus |
-|:-:|:-:|
-| PERFREQ-0000 | Kirjautuminen on mahdollista yhtäaikaa x käyttäjällä |					
-| PERFREQ-0001 | Palvelun maksimi käyttäjä määrä on ? |
-| PERFREQ-0002 | Palvelun kotisivu aukeaa < Xs ||
-
 ### Tietoturvavaatimukset (Security Requirements)
-
-![](../assets/work-to-do.png)
-
->Millaisia vaatimuksia palveluun kohdistuu tietoturvan näkökulmasta? 
-> Tutustu [VAHTI 1/2013 Sovelluskehityksen tietoturvaohje](https://www.suomidigi.fi/ohjeet-ja-tuki/vahti-ohjeet/vahti-12013-sovelluskehityksen-tietoturvaohje)
-> Tarkista esimerkkinä [TRAFICOMin tietoturvamerkki](https://tietoturvamerkki.fi/fi/vaatimukset/)
-
 
 | ID |  Kuvaus |
 |:-:|:-:|
 | SECURITY-REQ-0001 | Salasanassa on käytettävä vähintään MD5-tason salausta, koska vaatimus [CONSTRAIN-000]() sitä edellyttää |
 | SECURITY-REQ-0002 | Jokainen tapahtuma palvelussa on kirjattava käyttölogiin, että niitä voidaan tarkastella myöhemmin | 
-| SECURITY-REQ-0003 | ... |
+| SECURITY-REQ-0003 | Salasanojen tallennus ja säilyttäminen turvallisessa paikassa, etteivät hakkerit pääse niihin käsiksi|
+| SECURITY-REQ-0004 | Bottien estäminen sivustolla turvallisuustarkastuksilla |
+| SECURITY-REQ-0005 | Tietoturva-aukkojen selvittäminen |
+| SECURITY-REQ-0006 | Henkilökohtaisien tietojen kerääminen |
+| SECURITY-REQ-0007 | Turvalliset oletusasetukset |
+| SECURITY-REQ-0008 | Ohjelmistopäivitykset ja niiden vaikutukset sivustoon|
+| SECURITY-REQ-0009 | Tietosuoja-asetukset kunnossa |
 
 ### Saavutettavuusvaatimukset (Accessablity Requirements)
 
@@ -349,8 +277,6 @@ Kannattaa tutkia esimerkiksi https://www.sfs.fi/aihealueet/terveydenhuolto/laaki
 >Vaatimusmäärittelyn osaksi voidaan tarvittaessa liittää teknillisiä kuvauksia, joiden avulla voidaan tarkentaa eri vaatimuksia. Yksi tärkeä dokumentti voi olla esimerkiksi tekninen arkkitehtuuri. Tämä kuvaus voidaan lyhyessä muodossaan liittää osaksi vaatimusmäärittelyä, mutta yleensä se on varsin laaja itsenäinen dokumentaation osa. Arkkitehtuuri ratkaisujen kuvaamiseksi voidaan laatia yödyntäen apuna UML-kuvauskielen eri diagrammeja. Esimerkkinä alla on  sijoittelunäkymä ([Deployment Diagram](https://plantuml.com/deployment-diagram)). Sijoittelunäkymän avulla voidaan kuvata miten palvelun eri palvelut sijaitsevat ja miten ne kytkeytyvät toisiinsa.
 
 Ohjelmistoarkkitehtuurin kuvaus on itsessään laaja osa-alue ja käytännössä se edellyttää laajempaa dokumentaatiota.
-
-* [Tähän linkki erilliseen ohjelmistoarkkitehtuurin kuvaukseen](../30-Suunnittelu-ja-toteutus/arkkitehtuuri-ja-tekninentoteutus.md)
 
 ```plantuml
 @startuml
