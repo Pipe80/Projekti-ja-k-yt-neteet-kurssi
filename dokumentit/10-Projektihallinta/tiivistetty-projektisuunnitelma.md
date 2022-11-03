@@ -253,11 +253,11 @@ Tyypillisesti eri suunnitelmat ja loppuraportti sopivin osin ovat tällaisia dok
 
 On tärkeää määritellä milloin, mihin tai miten projekti päättyy. Projektin päätös voi olla tietty päivämäärä, tietty tuotteen valmiusaste, tietty työtuntimäärä, tietty kulutettu rahasumma, kun asiakas ottaa tuotteen käyttöön, takuuaika on umpeutunut tai kun asiakas hyväksyy tuotteen.
 
-”Projekti päättyy p.k.vvvv, jolloin projektisopimuksen voimassaoloaika päättyy.”
+”Projekti päättyy 1.12.2022, jolloin projektisopimuksen voimassaoloaika päättyy.”
 
 ## 6.4 Lopetustilaisuus
 
-Yleensä projektit päätetään yhteiseen päätösseminaariin. Tähän kirjataan osallistujat ja ajankohta. 
+Projektissa työskennelleet tiimin jäsenet
 
 * Saunailta
 
