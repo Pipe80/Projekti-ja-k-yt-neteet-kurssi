@@ -1,23 +1,20 @@
-# Ominaisuus (Esimerkki)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BVMKuJ_3Exc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+# Ominaisuus Home-nappi
 
 | | |
 |:-:|:-:|
 | Dokumentti | Ominaisuuskuvaus |
-| Ominaisuus | Esimerkki ominaisuus | 
-| Määrittelijä | NarsuMan | 
+| Ominaisuus | Home-nappi | 
+| Määrittelijä | Pirjo M | 
 | Versio | 0.1 |
-| Päivämäärä | 30.11.2021 |
+| Päivämäärä | 3.11.2022 |
 
 ### Kuvaus
 
-*Kerro mitä ominaisuudella tarkoitetaan ja mitä sen avulla saavutetaan*
+Home-nappi. Nappia painamalla siirrytään kotisivulle/etusivulle.
 
 ### Ominaisuuteen liittyvät rajaukset, vaatimukset käyttötapaukset
 
-*Kerätään tähän kaikki oleelliset lähteet, jotka liittyvät ominaisuuden toteuttamiseen*
-
+Varmistetaan, että sivuston linkitys toimii moitteettomasti
 | | |
 |:-:|:-:|
 | [Use Case 1](pohjat/pohja-kayttotapaus.md) | Onko olemassa käyttötapauksia? |
@@ -27,12 +24,6 @@
 
 ### Ominaisuuteen liittyvät käyttötarinat (User Storys)
 
-*Kirjataan tarvittaessa User Storyt tähän, mutta kirjataan käytännössä heti  Issueiksi*
-
-* Käyttäjän haluan, että voin.....
-* Ylläpitäjänä haluan, että voin.....
-* User Story: *"Käyttäjänä X toivon, että voin tehdä seuraavan toimenpiteen, koska tämä selkeyttää sitä sun tätä..."* on kirjattu
-suoraan Issue-muotoon ja löytyy nyt linkistä #9
 
 ### Käyttöliittymänäkymä/mock 
 
@@ -43,7 +34,7 @@ Se selkeyttää ominaisuuden suunniteltua käyttöä.
 salt
 {
   Just plain text
-  [This is my button]
+  [Home-näppäin]
   ()  Unchecked radio
   (X) Checked radio
   []  Unchecked box
@@ -55,7 +46,7 @@ salt
 
 ### Testaus / mahdolliset hyväksyntä kriteerit 
 
-*Kirjataan muutamia huomiota testauksen kannalta*
+Testataan toimivuus tietokoneella ja kännykälle sekä eri käyttöliittymistä.
 
 | Testitapaus  | Kuvaus  |
 |:-:|:-:|
