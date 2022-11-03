@@ -4,7 +4,7 @@
 |:-:|:-:|
 | Dokumentti | Tiivistetty vaatimusmääritelmä |
 | Laatija: | Pirjo M |
-| Versio: |1.9 |
+| Versio: |1.7 |
 | Päivämäärä: | 3.11.2022 |
 
 ## Johdanto
@@ -143,7 +143,6 @@ Conduit keskustelupalsta, johon pystyy kirjoittamaan kommentin ja kommentoimaan 
 | [FUNCREQ-C0008]() | Kirjautuneena käyttäjänä voi muokata omaa artikkelia | [Artikkelin muokkaaminen]() |
 
 ## Käyttöliittymänäkymä/mockup 
-
 
 ![](../assets/figma.jpg)
 
