@@ -4,8 +4,8 @@
 |:-:|:-:|
 | Dokumentti | Tiivistetty projektisuunnitelma |
 | Laatija: | Pirjo M |
-| Versio: | 2.9 |
-| Päivämäärä: |14.10.2022 |
+| Versio: | 3.2 |
+| Päivämäärä: |3.11.2022 |
 
 ![](https://cdn.pixabay.com/photo/2018/08/06/21/32/darknet-3588402_1280.jpg)
 
@@ -72,7 +72,7 @@ ps. pöllöt löytyi, olin täyttänyt vahingossa laajaa projektisuunnitelmaa, d
 +++ Käytettävyystestaaja
 @endmindmap
 ```
-![Tiimin esittely](/assests/esittely.md)
+![](https://cdn.pixabay.com/photo/2016/06/13/09/57/meeting-1453895_1280.png)
 
 ## 2.2 Vastuut ja päätöksentekoprosessi
 
