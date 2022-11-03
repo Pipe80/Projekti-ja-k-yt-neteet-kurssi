@@ -4,7 +4,7 @@
 |:-:|:-:|
 | Dokumentti | Tiivistetty vaatimusmääritelmä |
 | Laatija: | Pirjo M |
-| Versio: |1.7 |
+| Versio: |2.0 |
 | Päivämäärä: | 3.11.2022 |
 
 ## Johdanto
@@ -146,46 +146,85 @@ Conduit keskustelupalsta, johon pystyy kirjoittamaan kommentin ja kommentoimaan 
 
 ![](/assets/figma.jpg)
 
->*Eri ominaisuuksien ja niihin liittyvien toiminnallisuuksien selkeyttämiseksi voidaan hyödyntää myös erilaisia kuvauksia. Kuvausten avulla pyritään hahmottamaan miltä tuotteen tulisi näyttää tai mitä on otettava huomioon käyttöliittymätoteutuksessa? Tähän tarkoitukseen voi soveltaa nykyaikaisia ns. MockUp/prototyyppityökaluja. Näiden välineiden avulla voidaan luoda helposti käyttöliittymästä nopea kokeiluverso, jota voidaan koekäyttää eri kohderyhmillä.* 
->*Ominaisuuksien toteutuksiin liittyvät prototyyppi kuvaukset kannataa liittää ominaisuuksien määrittelydokumentteihin, jolloin ne löytyvät asian mukaisesta paikasta. Tutustu esimerkkinä [Feature-FEA0001](20-Vaatimustenhallinta/ominaisuus-FEA0001.md)
->*Perinteisesti käyttöliittymä hahmotelmat ja kuvaukset on tehty piirtämällä käyttöliittymästä staattisia kuvia ja näitä on käytetty suunnittelun apuna. Tämä onnistuu myös soveltamalla apuna PlantUML-kuvauksia. (ks. alla) Kannattaa kuitenkin tutustua ja kokeilla arjolla olevia prototyyppi/MockUp-työkaluja tähän tarkoitukseen.*  
-
- * [Lisää tähän linkki prototyyppiin / MockUp-toteutukseen]()
- * Kokeile myös upottaa prototyyppi IFRAMEn muodossa? 
-
-**Alla esimerkki yksinkertaisesta PlantUML:n avulla muodostetusta käyttöliittymän dialogista**
-
-```plantuml
-salt
-{
-  Just plain text
-  [This is my button]
-  ()  Unchecked radio
-  (X) Checked radio
-  []  Unchecked box
-  [X] Checked box
-  "Enter text here   "
-  ^This is a droplist^
-}
-```
 
 ## Ketterän kehittämisen käyttötarinat - User Story 
 
-![](../assets/work-to-do.png)
+Palvelun tuottajana haluan, että palvelu huomauttaa artikkelin kirjoittajalle (suomeksi) tekstin sisällön asiallisuudesta, jos se sisältää "ala-arvoista" kieltä. 
+Issue#37   
+User Story
 
->*Nykyaikaisessa ohjelmistokehityksessä on yleistynyt tapa käyttää tarkkojen vaatimusten sijaan eri sidosryhmiltä kerättyjä kuvauksia tarvittavista toiminnoista. Näitä kuvauksia nimitetään käsitteellä käyttötarina eli *User Story*. Kannattaa tutustu aiheeseen [User Story](https://en.wikipedia.org/wiki/User_story). Käyttötarinat ovat kehitystiimin kannalta erittäin oleellisia, koska ne kuvaavat toimintoja, joita palvelulta odotetaan. Käytännössä User Storyjen avulla ohjataa koko kehitystiimin tavoitteellista työskentelyä projektin aikana.*
+Palvelun tuottajana haluan käytää konttien jakamisessa labranetin gitlab rekisteriä 
+Issue#36
+User Story
+ 
+Järjestelmän ylläpitäjänä haluan että tuotannon tietokannasta voidaan ottaa tarvittaessa backup komentoriviltä
+Issue#35 
+User Story
 
->Käyttötarina kuvauksen yleinen muoto on: 
+Palvelun kehittäjänä haluan saada loppukäyttäjän palautteen Issue-muodossa eteeni, koska se on selkeämpää jatkokäsitellä
+Issue#34
+User Story
 
-* Englanniksi: As a <-role-> I can <-capability->, so that <-receive benefit->*
+Palvelun käyttäjän toivon, että palvelu on luotettava ja se käyttää suojattuja HTTPS-yhteyttä, koska en uskalla käyttää HTTP-palveluja nykyaikana
+ Issue#33
+User Story
 
-* Vapaasti suomennettuna: Palvelun käyttäjän <-roolissa X-> voin tarvittaessa suorittaa <-toiminnon->, koska <-perustelu->* 
+Toimeksiantajana toivon, että sivusto näyttää visuaalisesti yhtenäiseltä, jos käyttäjä menee foorumille
+Issue#32
+User Story
 
->*Yksittäinen käyttötarina (User Story) voidaan kirjata esim Gitlab-palvleussa ns. Issuen muotoon. User Storyt voi alkuvaiheessa kerätä myös taulukkoon/listaan ja siirtää ne sopivalla hetkellä Issue-muotoon.*
+Kehittäjänä haluan käynnistää kehitysympäristön nopeasti käyttäen kontteja
+Issue#31  
+User Story
 
-**Esimerkki, jossa on linkitys issueen**
+Testaajana haluan käyttää Docker-kontteja, koska se helpottaa testi ympäristön pystyttämistä
+Issue#30
+User Story
 
-* *Käyttäjänä haluan, että voin luoda raportin tekemistäni ostoista viimeisen kuukauden ajalta, koska se helpottaa oman talouteni hallintaa* #14
+Palvelutuottajan haluan vaihtaa palvelun värit WIMMA Lab-sivuston mukaisiksi
+Issue#29
+User Story
+
+Palvelutuottajan on palvelustamme löydyttävä tietosuojakuvaus infosivu, koska GDPR sitä edellyttää
+Issue#28
+User Story
+
+Palvelutuottajana haluan auttaa loppukäyttäjää erillisen tukiportaalin kautta kuormittamatta kehitystiimiä ylimääräisillä kysmyksillä
+Issue#27
+User Story
+
+Palvelutuottajana haluan saada palautetta loppukäyttäjilä, jonka perusteella tuotetta voidaan kehitää paremmaksi
+Issue#26 
+User Story
+
+updated 3 weeks ago
+Forumin käyttäjänä toivon voivani palata helposti WIMMA Lab-sivustolle, koska haluan vielä tarkastella sitä uudelleen
+ Issue#25 · created 3 weeks ago by N5589  3   
+User Story
+ 0
+
+Kehittäjänä haluan, että voin käynnistää kehitysympäristön docker-compose up komennolla
+Issue#24
+User Story
+
+
+Palvelutuottajana haluan ajaa palvelua Docker-tekniikan varassa, koska se selkeyttää tuotantoa
+Issue#23  
+User Story
+
+Keskustelupalstalla vastaus ominaisuus
+Issue#22
+User Story
+
+Asiakas haluaa keskustelupalstan
+Issue#21
+User Story
+
+updated 3 weeks ago
+ 
+Käyttäjänä haluan, että voin luoda raportin tekemistäni ostoista viimeisen kuukauden ajalta, koska se helpottaa oman talouteni hallintaa
+Issue#14
+User Story
 
 ## Tietojärjestelmiä yleisesti koskevista vaatimuksista
 
