@@ -1,4 +1,4 @@
-# Ominaisuus Home-nappi
+# Ominaisuus New-post sivuston ominaisuudet
 
 | | |
 |:-:|:-:|
