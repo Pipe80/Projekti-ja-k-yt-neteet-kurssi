@@ -310,7 +310,8 @@ Saavutettavuusvaatimuksilla yritetään toteuttaa yhdenvertaista suomea, jolloin
 | ACCESSREQ-0004 | Käyttöliittymä on selkeä ja helppo käyttää |
 | ACCESSREQ-0005 | Mahdollisissa videoissa/kuvissa on kuva/videoteksti|
 | ACCESSREQ-0006 | Palvelussa on yhteystiedot, jonne voi ilmoittaa esim. häiriöistä |
-| ACCESSREQ-0007 | Palvelun on toimittava eri laitteilla |
+| ACCESSREQ-0007 | Käytettävyys pelkällä näppäimistöllä |
+| ACCESSREQ-0008 | Palvelun on toimittava eri laitteilla |
 
 ## Rajaukset ja reunaehdot (Constraints and limitations)
 
