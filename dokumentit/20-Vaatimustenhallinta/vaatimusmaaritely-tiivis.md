@@ -83,34 +83,34 @@ Conduit keskustelupalsta, johon pystyy kirjoittamaan kommentin ja kommentoimaan 
 |:-:|:-:|
 | *[Home-nappi](ominaisuus1.md)* | |
 || Home-nappia painaessa siirrytään takaisin etusivulle |
-| *[New-post nappi](pohjat/pohja-ominaisuus2.md)* | |
+| *[New-post nappi](ominaisuus2.md)* | |
 || New-post nappia painamalla siirrytään uudelle sivulle |
-| *[New-post sivuston ominaisuudet](pohjat/pohja-ominaisuus3.md)* | |
+| *[New-post sivuston ominaisuudet](ominaisuus3.md)* | |
 || Asiakas voi kirjoittaa otsikon |
 || Asiakas voi kirjoittaa mistä artikkeli kertoo |
 || Asiakas voi kirjoittaa arttikkelin|
 || Asiakas voi laittaa artikkeliin tunnistetageja |
-| *[Publish article-nappi](pohjat/pohja-ominaisuus4.md)* | |
-| *[Settings-nappi](pohjat/pohja-ominaisuus5.md)* | |
+| *[Publish article-nappi](ominaisuus4.md)* | |
+| *[Settings-nappi](ominaisuus5.md)* | |
 || Kuvan asetus-kenttä|
 || Nimen tai nimimerkin asetus-kenttä |
 || Mahdollisuus kirjoittaa pieni esittely itsestä |
 || Sähköpostiosoite-kenttä |
 || Salasanan uusiminen-kenttä |
-| *[Update settings-nappi](pohjat/pohja-ominaisuus6.md)* | |
-| *[Log out-nappi](pohjat/pohja-ominaisuus.md)* | |
+| *[Update settings-nappi](ominaisuus6.md)* | |
+| *[Log out-nappi](ominaisuus7.md)* | |
 || Asiakas pystyy kirjautumaan palvelusta ulos |
-| *[My profile-nappi](pohjat/pohja-ominaisuus7.md)* | |
+| *[My profile-nappi](ominaisuus8.md)* | |
 || Näkee omat tiedot |
 || Näkee itse asettamansa profiilikuvan sekä esittelytekstin|
 || Näkee kirjoitetut artikkelit |
 || Näkee myös muiden kirjoittamat artikkelit |
 || Näkee onko artikkeleilla tykkäyksiä |
-| *[Edit profile-nappi](pohjat/pohja-ominaisuus8.md)* | |
-| *[Asiakkaan toiminnallisuudet](pohjat/pohja-ominaisuus9.md)* | |
+| *[Edit profile-nappi](ominaisuus9.md)* | |
+| *[Asiakkaan toiminnallisuudet](ominaisuus10.md)* | |
 || Asiakas voi saada sähköpostia, mikäli hänen keskusteluun vastataan |
 || Asiakas voi irtisanoutua palvelusta |
-| *[Tagit](pohjat/pohja-ominaisuus10.md)* | |
+| *[Tagit](ominaisuus11.md)* | |
 || Asiakas voi laittaa keskusteluun avainsanoja eli tageja |
 || Tageilla voi etsiä tiettyjä keskusteluja |
 
