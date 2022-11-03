@@ -131,20 +131,6 @@ Conduit keskustelupalsta, johon pystyy kirjoittamaan kommentin ja kommentoimaan 
 
 # Toiminnalliset vaatimukset (Functional Requirements)
 
->Kuten huomasit yksittäinen toiminto (Function) liittyy yleensä laajempaan kokonaisuuteen eli ominaisuuteen (Feature). Määrittelyn alkaessa kaikki tunnistetut toiminnot voi kirjata ns. toiminnallisina vaatimuksina esimerkiksi taulukon muotoon. Tämän jälkeen voidaan tunnistaa niistä tärkeimmät ominaisuudet ja liittää niihin esiin tulleet toiminnot. 
-
-Kaikkia vaatimuksia (myös ei-toiminnalliset vaatimukset) koskevat seuraavat ehdot:
-
-![](../assets/work-to-do.png)
-
-* *Vaatimus on yksilöllinen ja identifioitu*
-* *Vaatimus on oltava mitattavissa*
-* *Vaatimuksen on oltava yksiselitteinen ja selkeä*
-* *Vaatimukseen ei tule sisällyttää useampia vaatimuksia*
-* *Vaatimus kannattaa perustella, jos tarpeen*
-* *Vaatimuksen ei saa ylikirjoittaa aiemmin määriteltyä vaatimusta*
-* *Edustaako kirjattu vaatimus itseasiassa ominaisuutta?*
-
 | ID | Toiminnallisen vaatimuksen kuvaus | ominaisuus	|				
 |:-:|:-:|:-:|
 | [FUNCREQ-C0001]() | Palveluun voi kirjautua | [Kirjautumis-ominaisuus](pohjat/pohja-ominaisuus.md) |
