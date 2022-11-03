@@ -4,9 +4,9 @@
 |:-:|:-:|
 | Dokumentti | Ominaisuuskuvaus |
 | Ominaisuus | | 
-| Määrittelijä | | 
-| Versio | |
-| Päivämäärä |
+| Määrittelijä | Pirjo M| 
+| Versio | 0.1|
+| Päivämäärä | 3.11.2022|
 
 ### Kuvaus
 
