@@ -25,11 +25,7 @@ Varmistetaan, että sivuston linkitys toimii moitteettomasti
 
 Testataan toimivuus tietokoneella ja kännykälle sekä eri käyttöliittymistä.
 
-| Testitapaus  | Kuvaus  |
-|:-:|:-:|
-| [Hyväksyntätesti 1](pohjat/pohja-hyvaksyntatesti.md) | Hyväksyntätesti |
-| [Toiminnallinen testi 1](pohjat/pohja-testitapaus.md)| Testitapaus |
-| [Tietoturvatesti 5](pohjat/pohja-testitapaus.md)     | Testitapaus |
+Testattu ja hyväksytty
 
 
 
