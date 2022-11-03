@@ -144,7 +144,7 @@ Conduit keskustelupalsta, johon pystyy kirjoittamaan kommentin ja kommentoimaan 
 
 ## Käyttöliittymänäkymä/mockup 
 
-![](../assets/figma.jpg)
+![](/assets/figma.jpg)
 
 >*Eri ominaisuuksien ja niihin liittyvien toiminnallisuuksien selkeyttämiseksi voidaan hyödyntää myös erilaisia kuvauksia. Kuvausten avulla pyritään hahmottamaan miltä tuotteen tulisi näyttää tai mitä on otettava huomioon käyttöliittymätoteutuksessa? Tähän tarkoitukseen voi soveltaa nykyaikaisia ns. MockUp/prototyyppityökaluja. Näiden välineiden avulla voidaan luoda helposti käyttöliittymästä nopea kokeiluverso, jota voidaan koekäyttää eri kohderyhmillä.* 
 >*Ominaisuuksien toteutuksiin liittyvät prototyyppi kuvaukset kannataa liittää ominaisuuksien määrittelydokumentteihin, jolloin ne löytyvät asian mukaisesta paikasta. Tutustu esimerkkinä [Feature-FEA0001](20-Vaatimustenhallinta/ominaisuus-FEA0001.md)
