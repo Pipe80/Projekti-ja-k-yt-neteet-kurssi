@@ -3,14 +3,14 @@
 | | |
 |:-:|:-:|
 | Dokumentti | Ominaisuuskuvaus |
-| Ominaisuus | Home-nappi | 
+| Ominaisuus | New Post-nappi | 
 | Määrittelijä | Pirjo M | 
 | Versio | 0.1 |
 | Päivämäärä | 3.11.2022 |
 
 ### Kuvaus
 
-Home-nappi. Nappia painamalla siirrytään kotisivulle/etusivulle.
+New post-nappi. Uuden artikkelin luomiseen tarkoitettu nappi.
 
 ### Ominaisuuteen liittyvät rajaukset, vaatimukset käyttötapaukset
 
