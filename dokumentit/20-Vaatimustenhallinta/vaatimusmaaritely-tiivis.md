@@ -297,15 +297,20 @@ Näitä yhteyksiä kutsutaan vaatimusten jäljitettävyydeksi (Traceablity).
 
 ### Saavutettavuusvaatimukset (Accessablity Requirements)
 
-![](../assets/work-to-do.png)
-
->Mitä tarkoitetaan saavutettavuudella? Millaisia asioita/ohjeistuksia on otettava huomioon palvelua toteutettaessa? Tutustu lähteeseen: [https://www.saavutettavuusvaatimukset.fi/](https://www.saavutettavuusvaatimukset.fi/)
+Digitaaliset palvelut pitäisi olla kaikkien saataville. Palveluiden pitäisi toimia kännykällä, tietokoneella ja tabletilla.
+Palveluja voi käyttää, vaikka käyttäjällä olisi kuulo- tai näkövamma, luki- ja oppimisvaikeus, muistihäiriö tai vaikkapa heikko suomen kielen taito. Saavutettava verkkopalvelu on lähdekoodiltaan virheetöntä ja loogista, standardien ja ohjeistusten mukainen. Verkkosivusto toimii erilaisilla päätelaitteilla ja avustavilla teknologioilla, kuten puheohjauksella ja ruudunlukuohjelmalla.
+Saavutettavuusvaatimuksilla yritetään toteuttaa yhdenvertaista suomea, jolloin kaikki olisivat samanarvoisia ja kaikki palvelut olisi saataville myös heille, joilla on joku vamma tai vaikka värisokeus.
 
 | ID  |  Kuvaus |
 |:-:|:-:|
 | ACCESSREQ-0000 | Palvelun käyttöliittymässä on mahdollista valita selkeä kontrastinen teema |	
 | ACCESSREQ-0001 | Käyttöliittymän Fonttikokoa on voitava muuttaa päävalikon kautta |
-| ACCESSREQ-0002 |  ... |
+| ACCESSREQ-0002 | Palvelu on valittavissa suomen ja englannin kielellä |
+| ACCESSREQ-0003 | Palvelu on saatavilla puheohjauksella |
+| ACCESSREQ-0004 | Käyttöliittymä on selkeä ja helppo käyttää |
+| ACCESSREQ-0005 | Mahdollisissa videoissa/kuvissa on kuva/videoteksti|
+| ACCESSREQ-0006 | Palvelussa on yhteystiedot, jonne voi ilmoittaa esim. häiriöistä |
+| ACCESSREQ-0007 | Palvelun on toimittava eri laitteilla |
 
 ## Rajaukset ja reunaehdot (Constraints and limitations)
 
