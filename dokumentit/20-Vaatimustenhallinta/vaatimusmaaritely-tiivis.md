@@ -81,36 +81,36 @@ Conduit keskustelupalsta, johon pystyy kirjoittamaan kommentin ja kommentoimaan 
 
 | Ominaisuus (Feature) | Toiminto (Function) |
 |:-:|:-:|
-| *[Home-nappi](ominaisuus1.md)* | |
+| *[Home-nappi](pohjat/ominaisuus1.md)* | |
 || Home-nappia painaessa siirrytään takaisin etusivulle |
-| *[New-post nappi](ominaisuus2.md)* | |
+| *[New-post nappi](pohjat/ominaisuus2.md)* | |
 || New-post nappia painamalla siirrytään uudelle sivulle |
-| *[New-post sivuston ominaisuudet](ominaisuus3.md)* | |
+| *[New-post sivuston ominaisuudet](pohjat/ominaisuus3.md)* | |
 || Asiakas voi kirjoittaa otsikon |
 || Asiakas voi kirjoittaa mistä artikkeli kertoo |
 || Asiakas voi kirjoittaa arttikkelin|
 || Asiakas voi laittaa artikkeliin tunnistetageja |
-| *[Publish article-nappi](ominaisuus4.md)* | |
-| *[Settings-nappi](ominaisuus5.md)* | |
+| *[Publish article-nappi](pohjat/ominaisuus4.md)* | |
+| *[Settings-nappi](pohjat/ominaisuus5.md)* | |
 || Kuvan asetus-kenttä|
 || Nimen tai nimimerkin asetus-kenttä |
 || Mahdollisuus kirjoittaa pieni esittely itsestä |
 || Sähköpostiosoite-kenttä |
 || Salasanan uusiminen-kenttä |
-| *[Update settings-nappi](ominaisuus6.md)* | |
-| *[Log out-nappi](ominaisuus7.md)* | |
+| *[Update settings-nappi](pohjat/ominaisuus6.md)* | |
+| *[Log out-nappi](pohjat/ominaisuus7.md)* | |
 || Asiakas pystyy kirjautumaan palvelusta ulos |
-| *[My profile-nappi](ominaisuus8.md)* | |
+| *[My profile-nappi](pohjat/ominaisuus8.md)* | |
 || Näkee omat tiedot |
 || Näkee itse asettamansa profiilikuvan sekä esittelytekstin|
 || Näkee kirjoitetut artikkelit |
 || Näkee myös muiden kirjoittamat artikkelit |
 || Näkee onko artikkeleilla tykkäyksiä |
-| *[Edit profile-nappi](ominaisuus9.md)* | |
-| *[Asiakkaan toiminnallisuudet](ominaisuus10.md)* | |
+| *[Edit profile-nappi](pohjat/ominaisuus9.md)* | |
+| *[Asiakkaan toiminnallisuudet](pohjat/ominaisuus10.md)* | |
 || Asiakas voi saada sähköpostia, mikäli hänen keskusteluun vastataan |
 || Asiakas voi irtisanoutua palvelusta |
-| *[Tagit](ominaisuus11.md)* | |
+| *[Tagit](pohjat/ominaisuus11.md)* | |
 || Asiakas voi laittaa keskusteluun avainsanoja eli tageja |
 || Tageilla voi etsiä tiettyjä keskusteluja |
 
