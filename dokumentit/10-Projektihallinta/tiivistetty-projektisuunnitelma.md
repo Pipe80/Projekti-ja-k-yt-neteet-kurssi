@@ -49,7 +49,7 @@ IT = Information technology
 
 ## 1.6 Projektiin liittyvät haasteet
 - SWOT 
-Lisähuomioita, uhat: ajan riittäminen.
+
 ![](assets/swot.jpg)
 
 ps. pöllöt löytyi, olin täyttänyt vahingossa laajaa projektisuunnitelmaa, damned.
