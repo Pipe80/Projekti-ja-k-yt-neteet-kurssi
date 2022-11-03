@@ -149,9 +149,9 @@ Conduit keskustelupalsta, johon pystyy kirjoittamaan kommentin ja kommentoimaan 
 
 ## Ketterän kehittämisen käyttötarinat - User Story 
 
-Palvelun tuottajana haluan, että palvelu huomauttaa artikkelin kirjoittajalle (suomeksi) tekstin sisällön asiallisuudesta, jos se sisältää "ala-arvoista" kieltä. 
-Issue#37   
-User Story
+|Palvelun tuottajana haluan, että palvelu huomauttaa artikkelin kirjoittajalle (suomeksi) tekstin sisällön asiallisuudesta, jos se sisältää "ala-arvoista" kieltä. |
+|Issue#37   |
+|User Story|
 
 Palvelun tuottajana haluan käytää konttien jakamisessa labranetin gitlab rekisteriä 
 Issue#36
@@ -197,16 +197,13 @@ Palvelutuottajana haluan saada palautetta loppukäyttäjilä, jonka perusteella 
 Issue#26 
 User Story
 
-updated 3 weeks ago
 Forumin käyttäjänä toivon voivani palata helposti WIMMA Lab-sivustolle, koska haluan vielä tarkastella sitä uudelleen
- Issue#25 · created 3 weeks ago by N5589  3   
+Issue#25
 User Story
- 0
 
 Kehittäjänä haluan, että voin käynnistää kehitysympäristön docker-compose up komennolla
 Issue#24
 User Story
-
 
 Palvelutuottajana haluan ajaa palvelua Docker-tekniikan varassa, koska se selkeyttää tuotantoa
 Issue#23  
@@ -220,8 +217,6 @@ Asiakas haluaa keskustelupalstan
 Issue#21
 User Story
 
-updated 3 weeks ago
- 
 Käyttäjänä haluan, että voin luoda raportin tekemistäni ostoista viimeisen kuukauden ajalta, koska se helpottaa oman talouteni hallintaa
 Issue#14
 User Story
