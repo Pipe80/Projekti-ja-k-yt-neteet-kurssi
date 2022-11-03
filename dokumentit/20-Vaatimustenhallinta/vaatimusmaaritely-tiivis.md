@@ -81,7 +81,7 @@ Conduit keskustelupalsta, johon pystyy kirjoittamaan kommentin ja kommentoimaan 
 
 | Ominaisuus (Feature) | Toiminto (Function) |
 |:-:|:-:|
-| *[Home-nappi](20-Vaatimustenhallinta/oominaisuus1.md)* | |
+| *[Home-nappi](/Vaatimustenhallinta/ominaisuus1.md)* | |
 || Home-nappia painaessa siirrytään takaisin etusivulle |
 | *[New-post nappi](pohjat/pohja-ominaisuus2.md)* | |
 || New-post nappia painamalla siirrytään uudelle sivulle |
