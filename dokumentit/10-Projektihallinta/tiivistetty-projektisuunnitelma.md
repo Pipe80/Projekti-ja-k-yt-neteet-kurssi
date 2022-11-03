@@ -72,7 +72,7 @@ ps. pöllöt löytyi, olin täyttänyt vahingossa laajaa projektisuunnitelmaa, d
 +++ Käytettävyystestaaja
 @endmindmap
 ```
-![Tiimin esittely](esittely.md)
+![Tiimin esittely](/assests/esittely.md)
 
 ## 2.2 Vastuut ja päätöksentekoprosessi
 
