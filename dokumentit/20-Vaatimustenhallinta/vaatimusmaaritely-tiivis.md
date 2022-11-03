@@ -4,8 +4,8 @@
 |:-:|:-:|
 | Dokumentti | Tiivistetty vaatimusmääritelmä |
 | Laatija: | Pirjo M |
-| Versio: |1.6 |
-| Päivämäärä: | 31.10.2022 |
+| Versio: |1.7 |
+| Päivämäärä: | 3.11.2022 |
 
 ## Johdanto
 
@@ -147,10 +147,14 @@ Kaikkia vaatimuksia (myös ei-toiminnalliset vaatimukset) koskevat seuraavat ehd
 
 | ID | Toiminnallisen vaatimuksen kuvaus | ominaisuus	|				
 |:-:|:-:|:-:|
-| [FUNCREQ-C0001]() | Palveluun kirjautumisessa voidaan käyttää Facebook-tunnuksia | [Kirjautumis-ominaisuus](pohjat/pohja-ominaisuus.md) |
-| [FUNCREQ-C0002]() | Käyttöliittymää voidaan ohjata tarvittaessa äänikomennoilla | [Ääniohjaustuki-ominaisuus](pohjat(pohjat/pohja-ominaisuus.md)) |
-| [FUNCREQ-C0003]() | Käyttäjä voi vaihtaa kirjautumisikkunassa kielen | [Kirjatumis-ominaisuus]() |
-| [FUNCREQ-C0004]() | ... | ... |
+| [FUNCREQ-C0001]() | Palveluun voi kirjautua | [Kirjautumis-ominaisuus](pohjat/pohja-ominaisuus.md) |
+| [FUNCREQ-C0002]() | Kirjautuneena käyttäjänä palveluun voi lisätä profiilikuvan | [Lisää profiilikuva](pohjat(pohjat/pohja-ominaisuus.md)) |
+| [FUNCREQ-C0003]() | Kirjautuneena käyttäjänä voi kirjoittaa itsestään esittelytekstin | [Esittelyteksti]() |
+| [FUNCREQ-C0004]() | Kirjautuneena käyttäjänä voi päivittää oman salasanan/vaihtaa sen | [Salasanan vaihto]() |
+| [FUNCREQ-C0005]() | Kirjautuneena käyttäjänä voi kirjautua palvelusta ulos | [Uloskirjautuminen]() |
+| [FUNCREQ-C0006]() | Kirjautuneena käyttäjänä voi poistaa oman kommentin | [Kommentin poistaminen]() |
+| [FUNCREQ-C0007]() | Kirjautuneena käyttäjänä voi poistaa oman artikkelin| [Artikkelin poistaminen]() |
+| [FUNCREQ-C0008]() | Kirjautuneena käyttäjänä voi muokata omaa artikkelia | [Artikkelin muokkaaminen]() |
 
 ## Käyttöliittymänäkymä/mockup 
 
