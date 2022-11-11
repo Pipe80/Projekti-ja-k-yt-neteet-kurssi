@@ -1,8 +1,13 @@
 # [http://fi-a2022-ttc2070.pages.labranet.jamk.fi/ht1-N5589-/core]
 
-Suomenkielinen OPF versio
+OPF-kehikko
 
 Tätä projektirunkoa käytetään JAMK IT:n opetuksessa projektitöiden pohjana. 
+Projektitoiminta ja käytänteet kurssi piti sisällään tiiviin vaatimusmäärittelyn
+sekä tiivistetyn projektisuunnitelman täyttämisen eli olen itse opiskellut annetut aihealueet, tehnyt tehtävät (ne näkyvät tässä)
+sekä kirjoittanut aiheesta esseen. Projektitoiminta ja käytänteet kurssi oli monipuolinen, siihen sisältyi
+mm. kustannuslaskelmien tekoa, projektisuunnittelua, Issueiden sekä Etapeiden suunnittelut yms. Vaikka koin,
+että aihe oli hieman "kuiva" (opettaja muuten naurahti, kun hän kysyi mitä mieltä olin kurssista), mutta antoisa.
 
 
 Esimerkkeinä opintojaksot:
